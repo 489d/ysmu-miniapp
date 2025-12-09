@@ -1,4 +1,8 @@
 email;password;name;group;id;chat
 26345@edu.ysmu.ru;159753;Куц Кирилл Сергеевич;МК24-01;26345;https://max.ru/join/F64bb9PHG2b1jTPuPe-jvfQQ_NaivdjHSKiGHfE-ZbA
 admin@edu.ysmu.ru;admin;Тестовый Админ;АДМ-01;00001;https://max.ru/join/F64bb9PHG2b1jTPuPe-jvfQQ_NaivdjHSKiGHfE-ZbA
-11111@edu.ysmu.ru;11111;Иванов Иван Иванович;МБХ24-01;11111;https://max.ru/join/F64bb9PHG2b1jTPuPe-jvfQQ_NaivdjHSKiGHfE-ZbA
+mbx2-1@edu.ysmu.ru;11111;Иванов Иван Иванович;МБХ24-01;11111;https://max.ru/join/F64bb9PHG2b1jTPuPe-jvfQQ_NaivdjHSKiGHfE-ZbA
+mbx2-2@edu.ysmu.ru;11111;Иванов Иван Иванович;МБХ24-02;11111;https://max.ru/join/F64bb9PHG2b1jTPuPe-jvfQQ_NaivdjHSKiGHfE-ZbA
+mk1-1@edu.ysmu.ru;11111;Иванов Иван Иванович;МК25-01;11111;https://max.ru/join/F64bb9PHG2b1jTPuPe-jvfQQ_NaivdjHSKiGHfE-ZbA
+mbx1-2@edu.ysmu.ru;11111;Иванов Иван Иванович;МБХ25-02;11111;https://max.ru/join/F64bb9PHG2b1jTPuPe-jvfQQ_NaivdjHSKiGHfE-ZbA
+mbx1-1@edu.ysmu.ru;11111;Иванов Иван Иванович;МБХ25-01;11111;https://max.ru/join/F64bb9PHG2b1jTPuPe-jvfQQ_NaivdjHSKiGHfE-ZbA

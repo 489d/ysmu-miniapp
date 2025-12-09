@@ -1,19 +1,16 @@
 [
  {
-  "eventkey": 2,
   "EventName": "Физическая культура и спорт",
-  "EventType": "Семинар",
+  "EventType": "Практическое занятие",
   "eventDateStartd": "10-Nov-25",
   "eventDateStartTime": "08:00",
   "eventDateEndTime": "10:00",
   "weeklyRecurrence": 1,
   "recurrenceDateEndd": "12\/31\/2025",
-  "recurrenceDateEndd": "12\/31\/2025",
   "group": "МК24-01;МБХ24-01;МБХ24-02",
   "Заметки": "кибер2 + мбх2-1\/2"
  },
  {
-  "eventkey": 3,
   "EventName": "Гистология, цитология",
   "EventType": "Семинар",
   "eventDateStartd": "10-Nov-25",
@@ -21,12 +18,10 @@
   "eventDateEndTime": "13:30",
   "weeklyRecurrence": 1,
   "recurrenceDateEndd": "12\/31\/2025",
-  "recurrenceDateEndd": "12\/31\/2025",
   "group": "МК24-01;МБХ24-01;МБХ24-02",
   "Заметки": "кибер2 + мбх2-1\/2"
  },
  {
-  "eventkey": 4,
   "EventName": "Гистология, цитология",
   "EventType": "Лекция",
   "eventDateStartd": "10-Nov-25",
@@ -34,12 +29,10 @@
   "eventDateEndTime": "15:20",
   "weeklyRecurrence": 1,
   "recurrenceDateEndd": "12\/31\/2025",
-  "recurrenceDateEndd": "12\/31\/2025",
   "group": "МК24-01;МБХ24-01;МБХ24-02",
   "Заметки": "кибер2 + мбх2-1\/2"
  },
  {
-  "eventkey": 5,
   "EventName": "Органическая химия",
   "EventType": "Семинар",
   "eventDateStartd": "11-Nov-25",
@@ -47,12 +40,10 @@
   "eventDateEndTime": "11:30",
   "weeklyRecurrence": 1,
   "recurrenceDateEndd": "12\/31\/2025",
-  "recurrenceDateEndd": "12\/31\/2025",
   "group": "МК24-01;МБХ24-01;МБХ24-02",
   "Заметки": "кибер2 + мбх2-1\/2"
  },
  {
-  "eventkey": 6,
   "EventName": "Теория вероятности и математическая статистика",
   "EventType": "Семинар",
   "eventDateStartd": "11-Nov-25",
@@ -60,12 +51,10 @@
   "eventDateEndTime": "16:00",
   "weeklyRecurrence": 1,
   "recurrenceDateEndd": "12\/31\/2025",
-  "recurrenceDateEndd": "12\/31\/2025",
   "group": "МК24-01;МБХ24-01;МБХ24-02",
   "Заметки": "кибер2 + мбх2-1\/2"
  },
  {
-  "eventkey": 7,
   "EventName": "Теория вероятности и математическая статистика",
   "EventType": "Лекция",
   "eventDateStartd": "11-Nov-25",
@@ -73,12 +62,10 @@
   "eventDateEndTime": "17:50",
   "weeklyRecurrence": 1,
   "recurrenceDateEndd": "12\/31\/2025",
-  "recurrenceDateEndd": "12\/31\/2025",
   "group": "МК24-01;МБХ24-01;МБХ24-02",
   "Заметки": "кибер2 + мбх2-1\/2"
  },
  {
-  "eventkey": 9,
   "EventName": "Теоретические основы кибернетики, алгоритмы программирования и структура данных",
   "EventType": "Лекция",
   "eventDateStartd": "12-Nov-25",
@@ -86,12 +73,10 @@
   "eventDateEndTime": "09:40",
   "weeklyRecurrence": 1,
   "recurrenceDateEndd": "12\/31\/2025",
-  "recurrenceDateEndd": "12\/31\/2025",
   "group": "МК24-01",
   "Заметки": "кибер2"
  },
  {
-  "eventkey": 10,
   "EventName": "Теоретические основы кибернетики",
   "EventType": "Семинар",
   "eventDateStartd": "12-Nov-25",
@@ -99,12 +84,10 @@
   "eventDateEndTime": "12:20",
   "weeklyRecurrence": 1,
   "recurrenceDateEndd": "12\/31\/2025",
-  "recurrenceDateEndd": "12\/31\/2025",
   "group": "МК24-01",
   "Заметки": "кибер2"
  },
  {
-  "eventkey": 11,
   "EventName": "Алгоритмы программирования и структура данных",
   "EventType": "Семинар",
   "eventDateStartd": "12-Nov-25",
@@ -112,12 +95,10 @@
   "eventDateEndTime": "15:00",
   "weeklyRecurrence": 1,
   "recurrenceDateEndd": "12\/31\/2025",
-  "recurrenceDateEndd": "12\/31\/2025",
   "group": "МК24-01",
   "Заметки": "кибер2"
  },
  {
-  "eventkey": 12,
   "EventName": "Оптика, атомная физика",
   "EventType": "Семинар",
   "eventDateStartd": "13-Nov-25",
@@ -125,12 +106,10 @@
   "eventDateEndTime": "10:30",
   "weeklyRecurrence": 1,
   "recurrenceDateEndd": "12\/31\/2025",
-  "recurrenceDateEndd": "12\/31\/2025",
   "group": "МК24-01;МБХ24-02",
   "Заметки": "кибер2 + мбх2-2"
  },
  {
-  "eventkey": 13,
   "EventName": "Оптика, атомная физика",
   "EventType": "Лекция",
   "eventDateStartd": "13-Nov-25",
@@ -138,12 +117,10 @@
   "eventDateEndTime": "12:20",
   "weeklyRecurrence": 1,
   "recurrenceDateEndd": "12\/31\/2025",
-  "recurrenceDateEndd": "12\/31\/2025",
   "group": "МК24-01;МБХ24-01;МБХ24-02",
   "Заметки": "кибер2 + мбх2-1\/2"
  },
  {
-  "eventkey": 14,
   "EventName": "Иностранный язык",
   "EventType": "Семинар",
   "eventDateStartd": "13-Nov-25",
@@ -151,12 +128,10 @@
   "eventDateEndTime": "14:30",
   "weeklyRecurrence": 1,
   "recurrenceDateEndd": "12\/31\/2025",
-  "recurrenceDateEndd": "12\/31\/2025",
   "group": "МК24-01;МБХ24-01;МБХ24-02",
   "Заметки": "кибер2 + мбх2-1\/2"
  },
  {
-  "eventkey": 15,
   "EventName": "Физология",
   "EventType": "Лекция",
   "eventDateStartd": "14-Nov-25",
@@ -164,12 +139,10 @@
   "eventDateEndTime": "09:40",
   "weeklyRecurrence": 1,
   "recurrenceDateEndd": "12\/31\/2025",
-  "recurrenceDateEndd": "12\/31\/2025",
   "group": "МК24-01;МБХ24-01;МБХ24-02",
   "Заметки": "кибер2 + мбх2-1\/2"
  },
  {
-  "eventkey": 16,
   "EventName": "Физиология",
   "EventType": "Семинар",
   "eventDateStartd": "14-Nov-25",
@@ -177,12 +150,10 @@
   "eventDateEndTime": "13:10",
   "weeklyRecurrence": 1,
   "recurrenceDateEndd": "12\/31\/2025",
-  "recurrenceDateEndd": "12\/31\/2025",
   "group": "МК24-01;МБХ24-01;МБХ24-02",
   "Заметки": "кибер2 + мбх2-1\/2"
  },
  {
-  "eventkey": 17,
   "EventName": "Микробиология",
   "EventType": "Семинар",
   "eventDateStartd": "14-Nov-25",
@@ -190,8 +161,271 @@
   "eventDateEndTime": "15:00",
   "weeklyRecurrence": 1,
   "recurrenceDateEndd": "12\/31\/2025",
-  "recurrenceDateEndd": "12\/31\/2025",
   "group": "МК24-01;МБХ24-01;МБХ24-02",
   "Заметки": "кибер2 + мбх2-1\/2"
+ },
+ {
+  "EventName": "Высшая математика",
+  "EventType": "Лекция",
+  "eventDateStartd": "10-Nov-25",
+  "eventDateStartTime": "08:20",
+  "eventDateEndTime": "10:00",
+  "weeklyRecurrence": 1,
+  "recurrenceDateEndd": "12\/31\/2025",
+  "group": "МК25-01",
+  "Заметки": "кибер1"
+ },
+ {
+  "EventName": "Высшая математика",
+  "EventType": "Семинар",
+  "eventDateStartd": "10-Nov-25",
+  "eventDateStartTime": "10:10",
+  "eventDateEndTime": "12:40",
+  "weeklyRecurrence": 1,
+  "recurrenceDateEndd": "12\/31\/2025",
+  "group": "МК25-01",
+  "Заметки": "кибер1"
+ },
+ {
+  "EventName": "Механика, электричество",
+  "EventType": "Семинар",
+  "eventDateStartd": "10-Nov-25",
+  "eventDateStartTime": "13:00",
+  "eventDateEndTime": "15:30",
+  "weeklyRecurrence": 1,
+  "recurrenceDateEndd": "12\/31\/2025",
+  "group": "МК25-01;МБХ25-01;МБХ25-02",
+  "Заметки": "кибер1 + мбх1 - 1\/2"
+ },
+ {
+  "EventName": "Механика, электричество",
+  "EventType": "Лекция",
+  "eventDateStartd": "10-Nov-25",
+  "eventDateStartTime": "15:40",
+  "eventDateEndTime": "17:20",
+  "weeklyRecurrence": 1,
+  "recurrenceDateEndd": "12\/31\/2025",
+  "group": "МК25-01;МБХ25-01;МБХ25-02",
+  "Заметки": "кибер1 + мбх1 - 1\/2"
+ },
+ {
+  "EventName": "Неорганическая химия",
+  "EventType": "Семинар",
+  "eventDateStartd": "11-Nov-25",
+  "eventDateStartTime": "08:00",
+  "eventDateEndTime": "11:20",
+  "weeklyRecurrence": 1,
+  "recurrenceDateEndd": "12\/31\/2025",
+  "group": "МК25-01;МБХ25-01",
+  "Заметки": "кибер1 + мбх1 - 1"
+ },
+ {
+  "EventName": "Неорганическая химия",
+  "EventType": "Лекция",
+  "eventDateStartd": "11-Nov-25",
+  "eventDateStartTime": "11:30",
+  "eventDateEndTime": "13:10",
+  "weeklyRecurrence": 1,
+  "recurrenceDateEndd": "12\/31\/2025",
+  "group": "МК25-01;МБХ25-01;МБХ25-02",
+  "Заметки": "кибер1 + мбх1 - 1\/2"
+ },
+ {
+  "EventName": "История Росии",
+  "EventType": "Семинар",
+  "eventDateStartd": "11-Nov-25",
+  "eventDateStartTime": "13:20",
+  "eventDateEndTime": "15:50",
+  "weeklyRecurrence": 1,
+  "recurrenceDateEndd": "12\/31\/2025",
+  "group": "МК25-01",
+  "Заметки": "кибер1"
+ },
+ {
+  "EventName": "Элективная дисциплина",
+  "EventType": "Семинар",
+  "eventDateStartd": "11-Nov-25",
+  "eventDateStartTime": "16:00",
+  "eventDateEndTime": "17:40",
+  "weeklyRecurrence": 1,
+  "recurrenceDateEndd": "12\/31\/2025",
+  "group": "МК25-01",
+  "Заметки": "кибер1"
+ },
+ {
+  "EventName": "История Росии",
+  "EventType": "Лекция",
+  "eventDateStartd": "12-Nov-25",
+  "eventDateStartTime": "08:50",
+  "eventDateEndTime": "10:30",
+  "weeklyRecurrence": 1,
+  "recurrenceDateEndd": "12\/31\/2025",
+  "group": "МК25-01",
+  "Заметки": "кибер1"
+ },
+ {
+  "EventName": "Латинский язык",
+  "EventType": "Семинар",
+  "eventDateStartd": "13-Nov-25",
+  "eventDateStartTime": "10:20",
+  "eventDateEndTime": "12:00",
+  "weeklyRecurrence": 1,
+  "recurrenceDateEndd": "12\/31\/2025",
+  "group": "МК25-01",
+  "Заметки": "кибер1"
+ },
+ {
+  "EventName": "Биология",
+  "EventType": "Семинар",
+  "eventDateStartd": "13-Nov-25",
+  "eventDateStartTime": "12:30",
+  "eventDateEndTime": "16:30",
+  "weeklyRecurrence": 1,
+  "recurrenceDateEndd": "12\/31\/2025",
+  "group": "МК25-01;МБХ25-01;МБХ25-02",
+  "Заметки": "кибер1 + мбх1 - 1\/2"
+ },
+ {
+  "EventName": "Биология",
+  "EventType": "Лекция",
+  "eventDateStartd": "13-Nov-25",
+  "eventDateStartTime": "16:40",
+  "eventDateEndTime": "18:20",
+  "weeklyRecurrence": 1,
+  "recurrenceDateEndd": "12\/31\/2025",
+  "group": "МК25-01;МБХ25-01;МБХ25-02",
+  "Заметки": "кибер1 + мбх1 - 1\/2"
+ },
+ {
+  "EventName": "Физическая культура и спорт",
+  "EventType": "Семинар",
+  "eventDateStartd": "14-Nov-25",
+  "eventDateStartTime": "10:30",
+  "eventDateEndTime": "12:30",
+  "weeklyRecurrence": 1,
+  "recurrenceDateEndd": "12\/31\/2025",
+  "group": "МК25-01",
+  "Заметки": "кибер1"
+ },
+ {
+  "EventName": "Анатомия человека",
+  "EventType": "Лекция",
+  "eventDateStartd": "14-Nov-25",
+  "eventDateStartTime": "13:00",
+  "eventDateEndTime": "14:40",
+  "weeklyRecurrence": 1,
+  "recurrenceDateEndd": "12\/31\/2025",
+  "group": "МК25-01;МБХ25-01;МБХ25-02",
+  "Заметки": "кибер1 + мбх1 - 1\/2"
+ },
+ {
+  "EventName": "Анатомия человека",
+  "EventType": "Семинар",
+  "eventDateStartd": "14-Nov-25",
+  "eventDateStartTime": "14:50",
+  "eventDateEndTime": "17:20",
+  "weeklyRecurrence": 1,
+  "recurrenceDateEndd": "12\/31\/2025",
+  "group": "МК25-01;МБХ25-01;МБХ25-02",
+  "Заметки": "кибер1 + мбх1 - 1\/2"
+ },
+ {
+  "EventName": "Оптика, атомная физика",
+  "EventType": "Семинар",
+  "eventDateStartd": "12-Nov-25",
+  "eventDateStartTime": "09:30",
+  "eventDateEndTime": "12:00",
+  "weeklyRecurrence": 1,
+  "recurrenceDateEndd": "12\/31\/2025",
+  "group": "МБХ24-01",
+  "Заметки": "мбх2-1"
+ },
+ {
+  "EventName": "Основы аналитической химии",
+  "EventType": "Семинар",
+  "eventDateStartd": "12-Nov-25",
+  "eventDateStartTime": "12:30",
+  "eventDateEndTime": "15:00",
+  "weeklyRecurrence": 1,
+  "recurrenceDateEndd": "12\/31\/2025",
+  "group": "МБХ24-01;МБХ24-02",
+  "Заметки": "мбх2-1\/2"
+ },
+ {
+  "EventName": "Основы аналитической химии",
+  "EventType": "Лекция",
+  "eventDateStartd": "12-Nov-25",
+  "eventDateStartTime": "15:10",
+  "eventDateEndTime": "16:50",
+  "weeklyRecurrence": 1,
+  "recurrenceDateEndd": "12\/31\/2025",
+  "group": "МБХ24-01;МБХ24-02",
+  "Заметки": "мбх2-1\/2"
+ },
+ {
+  "EventName": "Высшая математика",
+  "EventType": "Лекция",
+  "eventDateStartd": "10-Nov-25",
+  "eventDateStartTime": "08:30",
+  "eventDateEndTime": "10:10",
+  "weeklyRecurrence": 1,
+  "recurrenceDateEndd": "05\/31\/2026",
+  "group": "МБХ25-01;МБХ25-02",
+  "Заметки": "мбх1-1\/2"
+ },
+ {
+  "EventName": "Неорганическая химия",
+  "EventType": "Семинар",
+  "eventDateStartd": "11-Nov-25",
+  "eventDateStartTime": "13:20",
+  "eventDateEndTime": "16:40",
+  "weeklyRecurrence": 1,
+  "recurrenceDateEndd": "12\/31\/2025",
+  "group": "МБХ25-02",
+  "Заметки": "мбх1 - 2"
+ },
+ {
+  "EventName": "История России",
+  "EventType": "Лекция",
+  "eventDateStartd": "12-Nov-25",
+  "eventDateStartTime": "08:50",
+  "eventDateEndTime": "10:30",
+  "weeklyRecurrence": 1,
+  "recurrenceDateEndd": "12\/31\/2025",
+  "group": "МБХ25-01;МБХ25-02",
+  "Заметки": "мбх1-1\/2"
+ },
+ {
+  "EventName": "История России",
+  "EventType": "Семинар",
+  "eventDateStartd": "12-Nov-25",
+  "eventDateStartTime": "10:40",
+  "eventDateEndTime": "13:20",
+  "weeklyRecurrence": 1,
+  "recurrenceDateEndd": "12\/31\/2025",
+  "group": "МБХ25-01;МБХ25-02",
+  "Заметки": "мбх1-1\/2"
+ },
+ {
+  "EventName": "Элективная дисциплина",
+  "EventType": "Семинар",
+  "eventDateStartd": "13-Nov-25",
+  "eventDateStartTime": "10:30",
+  "eventDateEndTime": "12:10",
+  "weeklyRecurrence": 1,
+  "recurrenceDateEndd": "12\/31\/2025",
+  "group": "МБХ25-01;МБХ25-02",
+  "Заметки": "мбх1-1\/2"
+ },
+ {
+  "EventName": "Латинский язык",
+  "EventType": "Семинар",
+  "eventDateStartd": "14-Nov-25",
+  "eventDateStartTime": "08:30",
+  "eventDateEndTime": "10:10",
+  "weeklyRecurrence": 1,
+  "recurrenceDateEndd": "12\/31\/2025",
+  "group": "МБХ25-01;МБХ25-02",
+  "Заметки": "мбх1-1\/2"
  }
 ]
