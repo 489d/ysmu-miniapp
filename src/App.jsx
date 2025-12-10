@@ -2,18 +2,34 @@ import React, { useState, useEffect } from 'react';
 
 // --- ИКОНКИ ---
 const IconUser = () => (
-  <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20"
-       viewBox="0 0 24 24" fill="none" stroke="currentColor"
-       strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
+  <svg
+    xmlns="http://www.w3.org/2000/svg"
+    width="20"
+    height="20"
+    viewBox="0 0 24 24"
+    fill="none"
+    stroke="currentColor"
+    strokeWidth="2"
+    strokeLinecap="round"
+    strokeLinejoin="round"
+  >
     <path d="M19 21v-2a4 4 0 0 0-4-4H9a4 4 0 0 0-4 4v2" />
-    ircle cx="12" cy="7" r="4" />
+    <circle cx="12" cy="7" r="4" />
   </svg>
 );
 
-  const IconSupport = () => (
-  <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18"
-       viewBox="0 0 24 24" fill="none" stroke="currentColor"
-       strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
+const IconSupport = () => (
+  <svg
+    xmlns="http://www.w3.org/2000/svg"
+    width="18"
+    height="18"
+    viewBox="0 0 24 24"
+    fill="none"
+    stroke="currentColor"
+    strokeWidth="2"
+    strokeLinecap="round"
+    strokeLinejoin="round"
+  >
     <path d="M9 18h6" />
     <path d="M10 22h4" />
     <path d="M12 2a7 7 0 0 0-7 7v3a4 4 0 0 0 4 4h6a4 4 0 0 0 4-4V9a7 7 0 0 0-7-7z" />
@@ -21,28 +37,52 @@ const IconUser = () => (
 );
 
 const IconGroup = () => (
-  <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24"
-       viewBox="0 0 24 24" fill="none" stroke="currentColor"
-       strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
+  <svg
+    xmlns="http://www.w3.org/2000/svg"
+    width="24"
+    height="24"
+    viewBox="0 0 24 24"
+    fill="none"
+    stroke="currentColor"
+    strokeWidth="2"
+    strokeLinecap="round"
+    strokeLinejoin="round"
+  >
     <path d="M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2" />
-    ircle cx="9" cy="7" r="4" />
+    <circle cx="9" cy="7" r="4" />
     <path d="M23 21v-2a4 4 0 0 0-3-3.87" />
     <path d="M16 3.13a4 4 0 0 1 0 7.75" />
   </svg>
 );
 
 const IconMessage = () => (
-  <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24"
-       viewBox="0 0 24 24" fill="none" stroke="currentColor"
-       strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
+  <svg
+    xmlns="http://www.w3.org/2000/svg"
+    width="24"
+    height="24"
+    viewBox="0 0 24 24"
+    fill="none"
+    stroke="currentColor"
+    strokeWidth="2"
+    strokeLinecap="round"
+    strokeLinejoin="round"
+  >
     <path d="M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z" />
   </svg>
 );
 
 const IconCalendar = () => (
-  <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20"
-       viewBox="0 0 24 24" fill="none" stroke="currentColor"
-       strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
+  <svg
+    xmlns="http://www.w3.org/2000/svg"
+    width="20"
+    height="20"
+    viewBox="0 0 24 24"
+    fill="none"
+    stroke="currentColor"
+    strokeWidth="2"
+    strokeLinecap="round"
+    strokeLinejoin="round"
+  >
     <rect x="3" y="4" width="18" height="18" rx="2" ry="2" />
     <line x1="16" y1="2" x2="16" y2="6" />
     <line x1="8" y1="2" x2="8" y2="6" />
@@ -51,9 +91,17 @@ const IconCalendar = () => (
 );
 
 const IconLogOut = () => (
-  <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20"
-       viewBox="0 0 24 24" fill="none" stroke="currentColor"
-       strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
+  <svg
+    xmlns="http://www.w3.org/2000/svg"
+    width="20"
+    height="20"
+    viewBox="0 0 24 24"
+    fill="none"
+    stroke="currentColor"
+    strokeWidth="2"
+    strokeLinecap="round"
+    strokeLinejoin="round"
+  >
     <path d="M9 21H5a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h4" />
     <polyline points="16 17 21 12 16 7" />
     <line x1="21" y1="12" x2="9" y2="12" />
@@ -61,10 +109,18 @@ const IconLogOut = () => (
 );
 
 const IconClock = () => (
-  <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14"
-       viewBox="0 0 24 24" fill="none" stroke="currentColor"
-       strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
-    ircle cx="12" cy="12" r="10" />
+  <svg
+    xmlns="http://www.w3.org/2000/svg"
+    width="14"
+    height="14"
+    viewBox="0 0 24 24"
+    fill="none"
+    stroke="currentColor"
+    strokeWidth="2"
+    strokeLinecap="round"
+    strokeLinejoin="round"
+  >
+    <circle cx="12" cy="12" r="10" />
     <polyline points="12 6 12 12 16 14" />
   </svg>
 );
@@ -79,12 +135,25 @@ export default function StudentMiniApp() {
   const [studentData, setStudentData] = useState(null);
   const [schedule, setSchedule] = useState({ current: [], next: [] });
 
-  // --- Парсер даты из "10-Nov-25" ---
-  const parseDate = (dateStr) => {
-    if (!dateStr) return new Date();
+  // --- Парсер даты из "10-Nov-25" ИЛИ "12/20/2025" ---
+const parseDate = (dateStr) => {
+  if (!dateStr) return new Date();
+
+  // Формат "10-Nov-25"
+  if (dateStr.includes('-')) {
     const months = {
-      Jan: 0, Feb: 1, Mar: 2, Apr: 3, May: 4, Jun: 5,
-      Jul: 6, Aug: 7, Sep: 8, Oct: 9, Nov: 10, Dec: 11
+      Jan: 0,
+      Feb: 1,
+      Mar: 2,
+      Apr: 3,
+      May: 4,
+      Jun: 5,
+      Jul: 6,
+      Aug: 7,
+      Sep: 8,
+      Oct: 9,
+      Nov: 10,
+      Dec: 11,
     };
     const parts = dateStr.split('-');
     if (parts.length === 3) {
@@ -94,8 +163,22 @@ export default function StudentMiniApp() {
       if (year < 100) year += 2000;
       return new Date(year, month, day);
     }
-    return new Date();
-  };
+  }
+
+  // Формат "12/20/2025" (MM/DD/YYYY)
+  if (dateStr.includes('/')) {
+    const parts = dateStr.split('/');
+    if (parts.length === 3) {
+      const month = parseInt(parts[0], 10) - 1;
+      const day = parseInt(parts[1], 10);
+      const year = parseInt(parts[2], 10);
+      return new Date(year, month, day);
+    }
+  }
+
+  return new Date();
+};
+
 
   // --- Группировка пар по дням ---
   const groupEventsByDay = (events) => {
@@ -125,70 +208,118 @@ export default function StudentMiniApp() {
     return sortedGroups;
   };
 
-  // --- Загрузка расписания ---
-  const loadSchedule = async (userGroup) => {
-    try {
-      const response = await fetch('/Events1.json');
-      if (!response.ok) throw new Error('Файл не найден');
-      const data = await response.json();
+// --- Загрузка расписания ---
+const loadSchedule = async (userGroup) => {
+  try {
+    const response = await fetch('/Events1.json');
+    if (!response.ok) throw new Error('Файл не найден');
+    const data = await response.json();
 
-      const now = new Date();
-      const currentWeekStart = new Date(now);
-      const day = currentWeekStart.getDay() || 7;
-      if (day !== 1) currentWeekStart.setHours(-24 * (day - 1));
-      currentWeekStart.setHours(0, 0, 0, 0);
+    const now = new Date();
+    now.setHours(0, 0, 0, 0);
 
-      const nextWeekStart = new Date(currentWeekStart);
-      nextWeekStart.setDate(nextWeekStart.getDate() + 7);
+    // понедельник текущей недели
+    const currentWeekStart = new Date(now);
+    const wDay = currentWeekStart.getDay() || 7;
+    if (wDay !== 1) currentWeekStart.setHours(-24 * (wDay - 1));
+    currentWeekStart.setHours(0, 0, 0, 0);
 
-      const currentWeekEvents = [];
-      const nextWeekEvents = [];
+    // понедельник следующей недели
+    const nextWeekStart = new Date(currentWeekStart);
+    nextWeekStart.setDate(nextWeekStart.getDate() + 7);
 
-      data.forEach((event) => {
-        if (
-          !event.group ||
-          !event.group.toLowerCase().includes(userGroup.toLowerCase())
-        )
-          return;
+    const currentWeekEvents = [];
+    const nextWeekEvents = [];
 
-        const startDate = parseDate(event.eventDateStartd);
-        const dayOfWeek = startDate.getDay();
+    const placeIfInWeeks = (baseUiEvent, dateObj) => {
+      const weekEnd = new Date(currentWeekStart);
+      weekEnd.setDate(weekEnd.getDate() + 6);
+      weekEnd.setHours(23, 59, 59, 999);
 
-        const baseUiEvent = {
-          subject: event.EventName,
-          type: event.EventType,
-          time: `${event.eventDateStartTime} - ${event.eventDateEndTime}`,
-          room: event.group || 'Ауд. уточняется',
-        };
+      const nextWeekEnd = new Date(nextWeekStart);
+      nextWeekEnd.setDate(nextWeekEnd.getDate() + 6);
+      nextWeekEnd.setHours(23, 59, 59, 999);
 
-        const offset = (dayOfWeek + 6) % 7;
+      const item = {
+        ...baseUiEvent,
+        day: dateObj.toLocaleDateString('ru-RU', { weekday: 'long' }),
+        dateObj,
+      };
 
-        const thisWeekDate = new Date(currentWeekStart);
-        thisWeekDate.setDate(thisWeekDate.getDate() + offset);
-        currentWeekEvents.push({
-          ...baseUiEvent,
-          day: thisWeekDate.toLocaleDateString('ru-RU', { weekday: 'long' }),
-          dateObj: thisWeekDate,
-        });
+      if (dateObj >= currentWeekStart && dateObj <= weekEnd) {
+        currentWeekEvents.push(item);
+      } else if (dateObj >= nextWeekStart && dateObj <= nextWeekEnd) {
+        nextWeekEvents.push(item);
+      }
+    };
 
-        const nextWeekDate = new Date(nextWeekStart);
-        nextWeekDate.setDate(nextWeekDate.getDate() + offset);
-        nextWeekEvents.push({
-          ...baseUiEvent,
-          day: nextWeekDate.toLocaleDateString('ru-RU', { weekday: 'long' }),
-          dateObj: nextWeekDate,
-        });
-      });
+    data.forEach((event) => {
+      if (
+        !event.group ||
+        !event.group.toLowerCase().includes(userGroup.toLowerCase())
+      ) {
+        return;
+      }
 
-      setSchedule({
-        current: groupEventsByDay(currentWeekEvents),
-        next: groupEventsByDay(nextWeekEvents),
-      });
-    } catch (err) {
-      console.error('ОШИБКА:', err);
-    }
-  };
+      const startDate = parseDate(event.eventDateStartd);
+      const weeklyRecurrence = Number(event.weeklyRecurrence || 0);
+      const recurrenceEnd = event.recurrenceDateEndd
+        ? parseDate(event.recurrenceDateEndd)
+        : null;
 
+      const baseUiEvent = {
+        subject: event.EventName,
+        type: event.EventType,
+        time: `${event.eventDateStartTime} - ${event.eventDateEndTime}`,
+        room: event.group || 'Ауд. уточняется',
+      };
+
+      // 1) daily: 6 — каждый будний день от start до end
+      if (weeklyRecurrence === 6 && recurrenceEnd) {
+        let d = new Date(startDate);
+        d.setHours(0, 0, 0, 0);
+
+        const endDate = new Date(recurrenceEnd);
+        endDate.setHours(23, 59, 59, 999);
+
+        while (d <= endDate) {
+          const dow = d.getDay(); // 0=вс
+          if (dow >= 1 && dow <= 6) {
+            placeIfInWeeks(baseUiEvent, new Date(d));
+          }
+          d.setDate(d.getDate() + 1);
+          d.setHours(0, 0, 0, 0);
+        }
+        return;
+      }
+
+      // 2) разовое: 0 — только указанная дата
+      if (weeklyRecurrence === 0) {
+        placeIfInWeeks(baseUiEvent, new Date(startDate));
+        return;
+      }
+
+      // 3) еженедельное (1 и прочее) — как раньше
+      const dayOfWeek = startDate.getDay(); // 0–6
+      const offset = (dayOfWeek + 6) % 7;
+
+      const thisWeekDate = new Date(currentWeekStart);
+      thisWeekDate.setDate(thisWeekDate.getDate() + offset);
+      placeIfInWeeks(baseUiEvent, thisWeekDate);
+
+      const nextWeekDate = new Date(nextWeekStart);
+      nextWeekDate.setDate(nextWeekDate.getDate() + offset);
+      placeIfInWeeks(baseUiEvent, nextWeekDate);
+    });
+
+    setSchedule({
+      current: groupEventsByDay(currentWeekEvents),
+      next: groupEventsByDay(nextWeekEvents),
+    });
+  } catch (err) {
+    console.error('ОШИБКА:', err);
+  }
+};
   // --- Авторизация только по email + сохранение профиля ---
   const handleLogin = async (e) => {
     e.preventDefault();
@@ -203,9 +334,15 @@ export default function StudentMiniApp() {
 
       rows.forEach((row) => {
         if (!row.trim()) return;
-        const [email, password, name, group, id, chat] = row
-          .split(';')
-          .map((s) => s.trim());
+
+        const parts = row.split(';').map((s) => s.trim());
+
+        const email = parts[0];
+        const name = parts[1] || '';
+        const group = parts[2] || '';
+        const chat = parts[3] || '';
+
+        if (!email) return;
 
         if (email.toLowerCase() === loginForm.email.toLowerCase()) {
           foundUser = { name, group, email, chat };
@@ -217,6 +354,7 @@ export default function StudentMiniApp() {
           setStudentData(foundUser);
           setIsAuth(true);
           loadSchedule(foundUser.group);
+
           try {
             localStorage.setItem('ysmu_student', JSON.stringify(foundUser));
           } catch (e) {
@@ -267,8 +405,9 @@ export default function StudentMiniApp() {
     const t = type.toLowerCase();
     if (t.includes('лекция')) return 'border-l-4 border-l-purple-500';
     if (t.includes('семинар')) return 'border-l-4 border-l-blue-500';
-    if (t.includes('практика') || t.includes('практическое'))
+    if (t.includes('практика') || t.includes('практическое')) {
       return 'border-l-4 border-l-orange-500';
+    }
     return 'border-l-4 border-l-slate-300';
   };
 
@@ -276,8 +415,9 @@ export default function StudentMiniApp() {
     const t = type.toLowerCase();
     if (t.includes('лекция')) return 'bg-purple-100 text-purple-700';
     if (t.includes('семинар')) return 'bg-blue-100 text-blue-700';
-    if (t.includes('практика') || t.includes('практическое'))
+    if (t.includes('практика') || t.includes('практическое')) {
       return 'bg-orange-100 text-orange-700';
+    }
     return 'bg-slate-100 text-slate-600';
   };
 
@@ -286,52 +426,59 @@ export default function StudentMiniApp() {
       <header className="bg-white/90 backdrop-blur-md border-b border-slate-200 sticky top-0 z-10 px-4 py-3 flex justify-between items-center shadow-sm">
         <div className="flex items-center gap-3">
           <div className="w-10 h-10 rounded-lg overflow-hidden border border-slate-100 shadow-sm bg-white flex items-center justify-center">
-            <img src="/logo.jpg" alt="ЯГМУ" className="w-full h-full object-contain p-0.5" />
+            <img
+              src="/logo.jpg"
+              alt="ЯГМУ"
+              className="w-full h-full object-contain p-0.5"
+            />
           </div>
           <span className="font-semibold text-sm text-slate-700 leading-tight">
-            Личный кабинет<br />
-            <span className="text-xs text-slate-400 font-normal">Студент ЯГМУ</span>
+            Личный кабинет
+            <br />
+            <span className="text-xs text-slate-400 font-normal">
+              Студент ЯГМУ
+            </span>
           </span>
         </div>
 
         {isAuth && studentData && (
-  <div className="flex items-center gap-2">
-    {/* Блок с именем */}
-    <div className="flex items-center gap-3 bg-slate-50 pl-4 pr-2 py-1.5 rounded-full border border-slate-200 shadow-sm">
-      <div className="text-right flex flex-col items-end">
-        <p className="text-sm font-bold text-slate-700 leading-none truncate max-w-[120px]">
-          {studentData.name.split(' ')[0]}{' '}
-          {studentData.name.split(' ')[1]
-            ? studentData.name.split(' ')[1][0] + '.'
-            : ''}
-        </p>
-      </div>
-      <div className="w-8 h-8 bg-blue-100 text-blue-600 rounded-full flex items-center justify-center border border-blue-200">
-        <IconUser />
-      </div>
-    </div>
+          <div className="flex items-center gap-2">
+            {/* Блок с именем */}
+            <div className="flex items-center gap-3 bg-slate-50 pl-4 pr-2 py-1.5 rounded-full border border-slate-200 shadow-sm">
+              <div className="text-right flex flex-col items-end">
+                <p className="text-sm font-bold text-slate-700 leading-none truncate max-w-[120px]">
+                  {studentData.name.split(' ')[0]}{' '}
+                  {studentData.name.split(' ')[1]
+                    ? studentData.name.split(' ')[1][0] + '.'
+                    : ''}
+                </p>
+              </div>
+              <div className="w-8 h-8 bg-blue-100 text-blue-600 rounded-full flex items-center justify-center border border-blue-200">
+                <IconUser />
+              </div>
+            </div>
 
-    {/* Кнопка поддержки */}
-    <a
-      href="https://max.ru/ciysmuru_bot"
-      target="_blank"
-      rel="noopener noreferrer"
-      className="w-11 h-11 flex items-center justify-center bg-white rounded-full border border-slate-200 text-slate-400 hover:text-emerald-600 hover:border-emerald-300 hover:bg-emerald-50 transition-all shadow-sm"
-      title="Поддержка"
-    >
-      <IconSupport />
-    </a>
+            {/* Кнопка поддержки */}
+            <a
+              href="https://max.ru/ciysmuru_bot"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="w-11 h-11 flex items-center justify-center bg-white rounded-full border border-slate-200 text-slate-400 hover:text-emerald-600 hover:border-emerald-300 hover:bg-emerald-50 transition-all shadow-sm"
+              title="Поддержка"
+            >
+              <IconSupport />
+            </a>
 
-    {/* Кнопка выхода */}
-    <button
-      onClick={handleLogout}
-      className="w-11 h-11 flex items-center justify-center bg-white rounded-full border border-slate-200 text-slate-400 hover:text-red-500 hover:bg-red-50 hover:border-red-200 transition-all shadow-sm"
-      title="Выйти"
-    >
-      <IconLogOut />
-    </button>
-  </div>
-)}
+            {/* Кнопка выхода */}
+            <button
+              onClick={handleLogout}
+              className="w-11 h-11 flex items-center justify-center bg-white rounded-full border border-slate-200 text-slate-400 hover:text-red-500 hover:bg-red-50 hover:border-red-200 transition-all shadow-sm"
+              title="Выйти"
+            >
+              <IconLogOut />
+            </button>
+          </div>
+        )}
       </header>
 
       <main className="px-4 py-6 max-w-md mx-auto flex flex-col gap-6">

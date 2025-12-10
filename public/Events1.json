@@ -7,8 +7,8 @@
   "eventDateEndTime": "10:00",
   "weeklyRecurrence": 1,
   "recurrenceDateEndd": "12\/31\/2025",
-  "group": "МК24-01;МБХ24-01;МБХ24-02",
-  "Заметки": "кибер2 + мбх2-1\/2"
+  "group": "МК24-01;МБ24-01;МБ24-02",
+  "Заметки": "кибер2 + МБ2-1\/2"
  },
  {
   "EventName": "Гистология, цитология",
@@ -18,8 +18,8 @@
   "eventDateEndTime": "13:30",
   "weeklyRecurrence": 1,
   "recurrenceDateEndd": "12\/31\/2025",
-  "group": "МК24-01;МБХ24-01;МБХ24-02",
-  "Заметки": "кибер2 + мбх2-1\/2"
+  "group": "МК24-01;МБ24-01;МБ24-02",
+  "Заметки": "кибер2 + МБ2-1\/2"
  },
  {
   "EventName": "Гистология, цитология",
@@ -29,8 +29,8 @@
   "eventDateEndTime": "15:20",
   "weeklyRecurrence": 1,
   "recurrenceDateEndd": "12\/31\/2025",
-  "group": "МК24-01;МБХ24-01;МБХ24-02",
-  "Заметки": "кибер2 + мбх2-1\/2"
+  "group": "МК24-01;МБ24-01;МБ24-02",
+  "Заметки": "кибер2 + МБ2-1\/2"
  },
  {
   "EventName": "Органическая химия",
@@ -40,8 +40,8 @@
   "eventDateEndTime": "11:30",
   "weeklyRecurrence": 1,
   "recurrenceDateEndd": "12\/31\/2025",
-  "group": "МК24-01;МБХ24-01;МБХ24-02",
-  "Заметки": "кибер2 + мбх2-1\/2"
+  "group": "МК24-01;МБ24-01;МБ24-02",
+  "Заметки": "кибер2 + МБ2-1\/2"
  },
  {
   "EventName": "Теория вероятности и математическая статистика",
@@ -51,8 +51,8 @@
   "eventDateEndTime": "16:00",
   "weeklyRecurrence": 1,
   "recurrenceDateEndd": "12\/31\/2025",
-  "group": "МК24-01;МБХ24-01;МБХ24-02",
-  "Заметки": "кибер2 + мбх2-1\/2"
+  "group": "МК24-01;МБ24-01;МБ24-02",
+  "Заметки": "кибер2 + МБ2-1\/2"
  },
  {
   "EventName": "Теория вероятности и математическая статистика",
@@ -62,8 +62,8 @@
   "eventDateEndTime": "17:50",
   "weeklyRecurrence": 1,
   "recurrenceDateEndd": "12\/31\/2025",
-  "group": "МК24-01;МБХ24-01;МБХ24-02",
-  "Заметки": "кибер2 + мбх2-1\/2"
+  "group": "МК24-01;МБ24-01;МБ24-02",
+  "Заметки": "кибер2 + МБ2-1\/2"
  },
  {
   "EventName": "Теоретические основы кибернетики, алгоритмы программирования и структура данных",
@@ -106,8 +106,8 @@
   "eventDateEndTime": "10:30",
   "weeklyRecurrence": 1,
   "recurrenceDateEndd": "12\/31\/2025",
-  "group": "МК24-01;МБХ24-02",
-  "Заметки": "кибер2 + мбх2-2"
+  "group": "МК24-01;МБ24-02",
+  "Заметки": "кибер2 + МБ2-2"
  },
  {
   "EventName": "Оптика, атомная физика",
@@ -117,8 +117,8 @@
   "eventDateEndTime": "12:20",
   "weeklyRecurrence": 1,
   "recurrenceDateEndd": "12\/31\/2025",
-  "group": "МК24-01;МБХ24-01;МБХ24-02",
-  "Заметки": "кибер2 + мбх2-1\/2"
+  "group": "МК24-01;МБ24-01;МБ24-02",
+  "Заметки": "кибер2 + МБ2-1\/2"
  },
  {
   "EventName": "Иностранный язык",
@@ -128,8 +128,8 @@
   "eventDateEndTime": "14:30",
   "weeklyRecurrence": 1,
   "recurrenceDateEndd": "12\/31\/2025",
-  "group": "МК24-01;МБХ24-01;МБХ24-02",
-  "Заметки": "кибер2 + мбх2-1\/2"
+  "group": "МК24-01;МБ24-01;МБ24-02",
+  "Заметки": "кибер2 + МБ2-1\/2"
  },
  {
   "EventName": "Физология",
@@ -139,8 +139,8 @@
   "eventDateEndTime": "09:40",
   "weeklyRecurrence": 1,
   "recurrenceDateEndd": "12\/31\/2025",
-  "group": "МК24-01;МБХ24-01;МБХ24-02",
-  "Заметки": "кибер2 + мбх2-1\/2"
+  "group": "МК24-01;МБ24-01;МБ24-02",
+  "Заметки": "кибер2 + МБ2-1\/2"
  },
  {
   "EventName": "Физиология",
@@ -150,8 +150,8 @@
   "eventDateEndTime": "13:10",
   "weeklyRecurrence": 1,
   "recurrenceDateEndd": "12\/31\/2025",
-  "group": "МК24-01;МБХ24-01;МБХ24-02",
-  "Заметки": "кибер2 + мбх2-1\/2"
+  "group": "МК24-01;МБ24-01;МБ24-02",
+  "Заметки": "кибер2 + МБ2-1\/2"
  },
  {
   "EventName": "Микробиология",
@@ -161,8 +161,8 @@
   "eventDateEndTime": "15:00",
   "weeklyRecurrence": 1,
   "recurrenceDateEndd": "12\/31\/2025",
-  "group": "МК24-01;МБХ24-01;МБХ24-02",
-  "Заметки": "кибер2 + мбх2-1\/2"
+  "group": "МК24-01;МБ24-01;МБ24-02",
+  "Заметки": "кибер2 + МБ2-1\/2"
  },
  {
   "EventName": "Высшая математика",
@@ -194,8 +194,8 @@
   "eventDateEndTime": "15:30",
   "weeklyRecurrence": 1,
   "recurrenceDateEndd": "12\/31\/2025",
-  "group": "МК25-01;МБХ25-01;МБХ25-02",
-  "Заметки": "кибер1 + мбх1 - 1\/2"
+  "group": "МК25-01;МБ25-01;МБ25-02",
+  "Заметки": "кибер1 + МБ1 - 1\/2"
  },
  {
   "EventName": "Механика, электричество",
@@ -205,8 +205,8 @@
   "eventDateEndTime": "17:20",
   "weeklyRecurrence": 1,
   "recurrenceDateEndd": "12\/31\/2025",
-  "group": "МК25-01;МБХ25-01;МБХ25-02",
-  "Заметки": "кибер1 + мбх1 - 1\/2"
+  "group": "МК25-01;МБ25-01;МБ25-02",
+  "Заметки": "кибер1 + МБ1 - 1\/2"
  },
  {
   "EventName": "Неорганическая химия",
@@ -216,8 +216,8 @@
   "eventDateEndTime": "11:20",
   "weeklyRecurrence": 1,
   "recurrenceDateEndd": "12\/31\/2025",
-  "group": "МК25-01;МБХ25-01",
-  "Заметки": "кибер1 + мбх1 - 1"
+  "group": "МК25-01;МБ25-01",
+  "Заметки": "кибер1 + МБ1 - 1"
  },
  {
   "EventName": "Неорганическая химия",
@@ -227,8 +227,8 @@
   "eventDateEndTime": "13:10",
   "weeklyRecurrence": 1,
   "recurrenceDateEndd": "12\/31\/2025",
-  "group": "МК25-01;МБХ25-01;МБХ25-02",
-  "Заметки": "кибер1 + мбх1 - 1\/2"
+  "group": "МК25-01;МБ25-01;МБ25-02",
+  "Заметки": "кибер1 + МБ1 - 1\/2"
  },
  {
   "EventName": "История Росии",
@@ -282,8 +282,8 @@
   "eventDateEndTime": "16:30",
   "weeklyRecurrence": 1,
   "recurrenceDateEndd": "12\/31\/2025",
-  "group": "МК25-01;МБХ25-01;МБХ25-02",
-  "Заметки": "кибер1 + мбх1 - 1\/2"
+  "group": "МК25-01;МБ25-01;МБ25-02",
+  "Заметки": "кибер1 + МБ1 - 1\/2"
  },
  {
   "EventName": "Биология",
@@ -293,8 +293,8 @@
   "eventDateEndTime": "18:20",
   "weeklyRecurrence": 1,
   "recurrenceDateEndd": "12\/31\/2025",
-  "group": "МК25-01;МБХ25-01;МБХ25-02",
-  "Заметки": "кибер1 + мбх1 - 1\/2"
+  "group": "МК25-01;МБ25-01;МБ25-02",
+  "Заметки": "кибер1 + МБ1 - 1\/2"
  },
  {
   "EventName": "Физическая культура и спорт",
@@ -315,8 +315,8 @@
   "eventDateEndTime": "14:40",
   "weeklyRecurrence": 1,
   "recurrenceDateEndd": "12\/31\/2025",
-  "group": "МК25-01;МБХ25-01;МБХ25-02",
-  "Заметки": "кибер1 + мбх1 - 1\/2"
+  "group": "МК25-01;МБ25-01;МБ25-02",
+  "Заметки": "кибер1 + МБ1 - 1\/2"
  },
  {
   "EventName": "Анатомия человека",
@@ -326,8 +326,8 @@
   "eventDateEndTime": "17:20",
   "weeklyRecurrence": 1,
   "recurrenceDateEndd": "12\/31\/2025",
-  "group": "МК25-01;МБХ25-01;МБХ25-02",
-  "Заметки": "кибер1 + мбх1 - 1\/2"
+  "group": "МК25-01;МБ25-01;МБ25-02",
+  "Заметки": "кибер1 + МБ1 - 1\/2"
  },
  {
   "EventName": "Оптика, атомная физика",
@@ -337,8 +337,8 @@
   "eventDateEndTime": "12:00",
   "weeklyRecurrence": 1,
   "recurrenceDateEndd": "12\/31\/2025",
-  "group": "МБХ24-01",
-  "Заметки": "мбх2-1"
+  "group": "МБ24-01",
+  "Заметки": "МБ2-1"
  },
  {
   "EventName": "Основы аналитической химии",
@@ -348,8 +348,8 @@
   "eventDateEndTime": "15:00",
   "weeklyRecurrence": 1,
   "recurrenceDateEndd": "12\/31\/2025",
-  "group": "МБХ24-01;МБХ24-02",
-  "Заметки": "мбх2-1\/2"
+  "group": "МБ24-01;МБ24-02",
+  "Заметки": "МБ2-1\/2"
  },
  {
   "EventName": "Основы аналитической химии",
@@ -359,8 +359,8 @@
   "eventDateEndTime": "16:50",
   "weeklyRecurrence": 1,
   "recurrenceDateEndd": "12\/31\/2025",
-  "group": "МБХ24-01;МБХ24-02",
-  "Заметки": "мбх2-1\/2"
+  "group": "МБ24-01;МБ24-02",
+  "Заметки": "МБ2-1\/2"
  },
  {
   "EventName": "Высшая математика",
@@ -370,8 +370,8 @@
   "eventDateEndTime": "10:10",
   "weeklyRecurrence": 1,
   "recurrenceDateEndd": "05\/31\/2026",
-  "group": "МБХ25-01;МБХ25-02",
-  "Заметки": "мбх1-1\/2"
+  "group": "МБ25-01;МБ25-02",
+  "Заметки": "МБ1-1\/2"
  },
  {
   "EventName": "Неорганическая химия",
@@ -381,8 +381,8 @@
   "eventDateEndTime": "16:40",
   "weeklyRecurrence": 1,
   "recurrenceDateEndd": "12\/31\/2025",
-  "group": "МБХ25-02",
-  "Заметки": "мбх1 - 2"
+  "group": "МБ25-02",
+  "Заметки": "МБ1 - 2"
  },
  {
   "EventName": "История России",
@@ -392,8 +392,8 @@
   "eventDateEndTime": "10:30",
   "weeklyRecurrence": 1,
   "recurrenceDateEndd": "12\/31\/2025",
-  "group": "МБХ25-01;МБХ25-02",
-  "Заметки": "мбх1-1\/2"
+  "group": "МБ25-01;МБ25-02",
+  "Заметки": "МБ1-1\/2"
  },
  {
   "EventName": "История России",
@@ -403,8 +403,8 @@
   "eventDateEndTime": "13:20",
   "weeklyRecurrence": 1,
   "recurrenceDateEndd": "12\/31\/2025",
-  "group": "МБХ25-01;МБХ25-02",
-  "Заметки": "мбх1-1\/2"
+  "group": "МБ25-01;МБ25-02",
+  "Заметки": "МБ1-1\/2"
  },
  {
   "EventName": "Элективная дисциплина",
@@ -414,8 +414,8 @@
   "eventDateEndTime": "12:10",
   "weeklyRecurrence": 1,
   "recurrenceDateEndd": "12\/31\/2025",
-  "group": "МБХ25-01;МБХ25-02",
-  "Заметки": "мбх1-1\/2"
+  "group": "МБ25-01;МБ25-02",
+  "Заметки": "МБ1-1\/2"
  },
  {
   "EventName": "Латинский язык",
@@ -425,7 +425,1687 @@
   "eventDateEndTime": "10:10",
   "weeklyRecurrence": 1,
   "recurrenceDateEndd": "12\/31\/2025",
-  "group": "МБХ25-01;МБХ25-02",
-  "Заметки": "мбх1-1\/2"
+  "group": "МБ25-01;МБ25-02",
+  "Заметки": "МБ1-1\/2"
+ },
+ {
+  "EventName": "Элективные дисциплины по физической культуре и спорту",
+  "EventType": "Семинар",
+  "eventDateStartd": "08-Dec-25",
+  "eventDateStartTime": "08:00",
+  "eventDateEndTime": "10:00",
+  "weeklyRecurrence": 1,
+  "recurrenceDateEndd": "12\/30\/2025",
+  "group": "МП24-01",
+  "Заметки": "медпроф2 - 1"
+ },
+ {
+  "EventName": "Правоведение",
+  "EventType": "Семинар",
+  "eventDateStartd": "08-Dec-25",
+  "eventDateStartTime": "10:40",
+  "eventDateEndTime": "12:10",
+  "weeklyRecurrence": 1,
+  "recurrenceDateEndd": "12\/30\/2025",
+  "group": "МП24-01",
+  "Заметки": "медпроф2 - 1"
+ },
+ {
+  "EventName": "Правоведение",
+  "EventType": "Лекция",
+  "eventDateStartd": "23-Dec-25",
+  "eventDateStartTime": "08:00",
+  "eventDateEndTime": "09:40",
+  "weeklyRecurrence": 0,
+  "recurrenceDateEndd": "12\/30\/2025",
+  "group": "МП24-01",
+  "Заметки": "медпроф2 - 1"
+ },
+ {
+  "EventName": "Введение в спициальность",
+  "EventType": "Семинар",
+  "eventDateStartd": "09-Dec-25",
+  "eventDateStartTime": "10:30",
+  "eventDateEndTime": "12:00",
+  "weeklyRecurrence": 1,
+  "recurrenceDateEndd": "12\/30\/2025",
+  "group": "МП24-01",
+  "Заметки": "медпроф2 - 1"
+ },
+ {
+  "EventName": "Биохимия",
+  "EventType": "Семинар",
+  "eventDateStartd": "10-Dec-25",
+  "eventDateStartTime": "08:00",
+  "eventDateEndTime": "11:20",
+  "weeklyRecurrence": 1,
+  "recurrenceDateEndd": "12\/30\/2025",
+  "group": "МП24-01",
+  "Заметки": "медпроф2 - 1"
+ },
+ {
+  "EventName": "Гистология, эмбриология, цитология",
+  "EventType": "Семинар",
+  "eventDateStartd": "10-Dec-25",
+  "eventDateStartTime": "11:40",
+  "eventDateEndTime": "14:10",
+  "weeklyRecurrence": 1,
+  "recurrenceDateEndd": "12\/30\/2025",
+  "group": "МП24-01",
+  "Заметки": "медпроф2 - 1"
+ },
+ {
+  "EventName": "Иностранный язык",
+  "EventType": "Семинар",
+  "eventDateStartd": "11-Dec-25",
+  "eventDateStartTime": "10:20",
+  "eventDateEndTime": "12:30",
+  "weeklyRecurrence": 1,
+  "recurrenceDateEndd": "12\/30\/2025",
+  "group": "МП24-01",
+  "Заметки": "медпроф2 - 1"
+ },
+ {
+  "EventName": "Гистология, эмбриология, цитология",
+  "EventType": "Лекция",
+  "eventDateStartd": "18-Dec-25",
+  "eventDateStartTime": "13:20",
+  "eventDateEndTime": "15:00",
+  "weeklyRecurrence": 0,
+  "recurrenceDateEndd": "12\/30\/2025",
+  "group": "МП24-01",
+  "Заметки": "медпроф2 - 1"
+ },
+ {
+  "EventName": "Биохимия",
+  "EventType": "Лекция",
+  "eventDateStartd": "11-Dec-25",
+  "eventDateStartTime": "13:20",
+  "eventDateEndTime": "15:00",
+  "weeklyRecurrence": 0,
+  "recurrenceDateEndd": "12\/30\/2025",
+  "group": "МП24-01",
+  "Заметки": "медпроф2 - 1"
+ },
+ {
+  "EventName": "Биохимия",
+  "EventType": "Лекция",
+  "eventDateStartd": "25-Dec-25",
+  "eventDateStartTime": "13:20",
+  "eventDateEndTime": "15:00",
+  "weeklyRecurrence": 0,
+  "recurrenceDateEndd": "12\/30\/2025",
+  "group": "МП24-01",
+  "Заметки": "медпроф2 - 1"
+ },
+ {
+  "EventName": "Нормальная физиология",
+  "EventType": "Лекция",
+  "eventDateStartd": "12-Dec-25",
+  "eventDateStartTime": "08:00",
+  "eventDateEndTime": "09:40",
+  "weeklyRecurrence": 0,
+  "recurrenceDateEndd": "12\/30\/2025",
+  "group": "МП24-01",
+  "Заметки": "медпроф2 - 1"
+ },
+ {
+  "EventName": "Нормальная физиология",
+  "EventType": "Лекция",
+  "eventDateStartd": "26-Dec-25",
+  "eventDateStartTime": "08:00",
+  "eventDateEndTime": "09:40",
+  "weeklyRecurrence": 0,
+  "recurrenceDateEndd": "12\/30\/2025",
+  "group": "МП24-01",
+  "Заметки": "медпроф2 - 1"
+ },
+ {
+  "EventName": "Нормальная физиология",
+  "EventType": "Семинар",
+  "eventDateStartd": "12-Dec-25",
+  "eventDateStartTime": "09:50",
+  "eventDateEndTime": "12:20",
+  "weeklyRecurrence": 1,
+  "recurrenceDateEndd": "12\/30\/2025",
+  "group": "МП24-01",
+  "Заметки": "медпроф2 - 1"
+ },
+ {
+  "EventName": "Элективная дисциплина 1",
+  "EventType": "Семинар",
+  "eventDateStartd": "12-Dec-25",
+  "eventDateStartTime": "08:30",
+  "eventDateEndTime": "10:40",
+  "weeklyRecurrence": 1,
+  "recurrenceDateEndd": "12\/30\/2025",
+  "group": "МП24-01",
+  "Заметки": "медпроф2 - 1"
+ },
+ {
+  "EventName": "Медицинская информатика",
+  "EventType": "Семинар",
+  "eventDateStartd": "10-Nov-25",
+  "eventDateStartTime": "08:30",
+  "eventDateEndTime": "10:30",
+  "weeklyRecurrence": 1,
+  "recurrenceDateEndd": "12\/31\/2025",
+  "group": "МП25-01;МП25-02",
+  "Заметки": "медпроф1-1\/2"
+ },
+ {
+  "EventName": "История России",
+  "EventType": "Семинар",
+  "eventDateStartd": "10-Nov-25",
+  "eventDateStartTime": "11:10",
+  "eventDateEndTime": "13:40",
+  "weeklyRecurrence": 1,
+  "recurrenceDateEndd": "12\/31\/2025",
+  "group": "МП25-01;МП25-02",
+  "Заметки": "медпроф1-1\/2"
+ },
+ {
+  "EventName": "Социология",
+  "EventType": "Семинар",
+  "eventDateStartd": "10-Nov-25",
+  "eventDateStartTime": "14:00",
+  "eventDateEndTime": "15:40",
+  "weeklyRecurrence": 1,
+  "recurrenceDateEndd": "12\/31\/2025",
+  "group": "МП25-01;МП25-02",
+  "Заметки": "медпроф1-1\/2"
+ },
+ {
+  "EventName": "Основы российской государственности",
+  "EventType": "Лекция",
+  "eventDateStartd": "10-Nov-25",
+  "eventDateStartTime": "15:50",
+  "eventDateEndTime": "17:30",
+  "weeklyRecurrence": 1,
+  "recurrenceDateEndd": "12\/31\/2025",
+  "group": "МП25-01;МП25-02",
+  "Заметки": "медпроф1-1\/2"
+ },
+ {
+  "EventName": "Биология",
+  "EventType": "Семинар",
+  "eventDateStartd": "11-Nov-25",
+  "eventDateStartTime": "08:00",
+  "eventDateEndTime": "10:50",
+  "weeklyRecurrence": 1,
+  "recurrenceDateEndd": "12\/31\/2025",
+  "group": "МП25-01;МП25-02",
+  "Заметки": "медпроф1-1\/2"
+ },
+ {
+  "EventName": "Психология и Педагогика",
+  "EventType": "Семинар",
+  "eventDateStartd": "11-Nov-25",
+  "eventDateStartTime": "11:20",
+  "eventDateEndTime": "13:50",
+  "weeklyRecurrence": 1,
+  "recurrenceDateEndd": "12\/31\/2025",
+  "group": "МП25-01;МП25-02",
+  "Заметки": "медпроф1-1\/2"
+ },
+ {
+  "EventName": "Психология и Педагогика",
+  "EventType": "Лекция",
+  "eventDateStartd": "11-Nov-25",
+  "eventDateStartTime": "14:00",
+  "eventDateEndTime": "15:40",
+  "weeklyRecurrence": 1,
+  "recurrenceDateEndd": "12\/31\/2025",
+  "group": "МП25-01;МП25-02",
+  "Заметки": "медпроф1-1\/2"
+ },
+ {
+  "EventName": "Основы сестринского дела",
+  "EventType": "Семинар",
+  "eventDateStartd": "12-Nov-25",
+  "eventDateStartTime": "10:10",
+  "eventDateEndTime": "11:50",
+  "weeklyRecurrence": 1,
+  "recurrenceDateEndd": "12\/31\/2025",
+  "group": "МП25-01;МП25-02",
+  "Заметки": "медпроф1-1\/2"
+ },
+ {
+  "EventName": "Учебная практика",
+  "EventType": "Семинар",
+  "eventDateStartd": "12-Nov-25",
+  "eventDateStartTime": "12:00",
+  "eventDateEndTime": "13:40",
+  "weeklyRecurrence": 1,
+  "recurrenceDateEndd": "12\/31\/2025",
+  "group": "МП25-01;МП25-02",
+  "Заметки": "медпроф1-1\/2"
+ },
+ {
+  "EventName": "История России",
+  "EventType": "Лекция",
+  "eventDateStartd": "12-Nov-25",
+  "eventDateStartTime": "14:30",
+  "eventDateEndTime": "16:10",
+  "weeklyRecurrence": 1,
+  "recurrenceDateEndd": "12\/31\/2025",
+  "group": "МП25-01;МП25-02",
+  "Заметки": "медпроф1-1\/2"
+ },
+ {
+  "EventName": "Химия",
+  "EventType": "Семинар",
+  "eventDateStartd": "13-Nov-25",
+  "eventDateStartTime": "08:00",
+  "eventDateEndTime": "10:30",
+  "weeklyRecurrence": 1,
+  "recurrenceDateEndd": "12\/31\/2025",
+  "group": "МП25-01;МП25-02",
+  "Заметки": "медпроф1-1\/2"
+ },
+ {
+  "EventName": "Основы российской государственной",
+  "EventType": "Семинар",
+  "eventDateStartd": "13-Nov-25",
+  "eventDateStartTime": "10:40",
+  "eventDateEndTime": "12:20",
+  "weeklyRecurrence": 1,
+  "recurrenceDateEndd": "12\/31\/2025",
+  "group": "МП25-01;МП25-02",
+  "Заметки": "медпроф1-1\/2"
+ },
+ {
+  "EventName": "Латинский язык",
+  "EventType": "Семинар",
+  "eventDateStartd": "13-Nov-25",
+  "eventDateStartTime": "12:40",
+  "eventDateEndTime": "14:20",
+  "weeklyRecurrence": 1,
+  "recurrenceDateEndd": "12\/31\/2025",
+  "group": "МП25-01;МП25-02",
+  "Заметки": "медпроф1-1\/2"
+ },
+ {
+  "EventName": "Биология",
+  "EventType": "Лекция",
+  "eventDateStartd": "13-Nov-25",
+  "eventDateStartTime": "16:00",
+  "eventDateEndTime": "17:40",
+  "weeklyRecurrence": 1,
+  "recurrenceDateEndd": "12\/31\/2025",
+  "group": "МП25-01;МП25-02",
+  "Заметки": "медпроф1-1\/2"
+ },
+ {
+  "EventName": "Элективные дисциплины по физической культуре и спорту",
+  "EventType": "Семинар",
+  "eventDateStartd": "14-Nov-25",
+  "eventDateStartTime": "08:00",
+  "eventDateEndTime": "10:00",
+  "weeklyRecurrence": 1,
+  "recurrenceDateEndd": "12\/31\/2025",
+  "group": "МП25-01;МП25-02",
+  "Заметки": "медпроф1-1\/2"
+ },
+ {
+  "EventName": "Иностранный язык",
+  "EventType": "Семинар",
+  "eventDateStartd": "14-Nov-25",
+  "eventDateStartTime": "10:20",
+  "eventDateEndTime": "12:00",
+  "weeklyRecurrence": 1,
+  "recurrenceDateEndd": "12\/31\/2025",
+  "group": "МП25-01;МП25-02",
+  "Заметки": "медпроф1-1\/2"
+ },
+ {
+  "EventName": "Анатомия",
+  "EventType": "Лекция",
+  "eventDateStartd": "14-Nov-25",
+  "eventDateStartTime": "13:00",
+  "eventDateEndTime": "14:40",
+  "weeklyRecurrence": 1,
+  "recurrenceDateEndd": "12\/31\/2025",
+  "group": "МП25-01;МП25-02",
+  "Заметки": "медпроф1-1\/2"
+ },
+ {
+  "EventName": "Анатомия",
+  "EventType": "Семинар",
+  "eventDateStartd": "14-Nov-25",
+  "eventDateStartTime": "14:50",
+  "eventDateEndTime": "18:10",
+  "weeklyRecurrence": 1,
+  "recurrenceDateEndd": "12\/31\/2025",
+  "group": "МП25-01;МП25-02",
+  "Заметки": "медпроф1-1\/2"
+ },
+ {
+  "EventName": "Физическая подготовка",
+  "EventType": "Семинар",
+  "eventDateStartd": "15-Nov-25",
+  "eventDateStartTime": "08:20",
+  "eventDateEndTime": "10:00",
+  "weeklyRecurrence": 1,
+  "recurrenceDateEndd": "12\/31\/2025",
+  "group": "МП25-01;МП25-02",
+  "Заметки": "медпроф1-1\/2"
+ },
+ {
+  "EventName": "Общая и медицинская радиобиология",
+  "EventType": "Семинар",
+  "eventDateStartd": "17-Nov-25",
+  "eventDateStartTime": "11:10",
+  "eventDateEndTime": "13:40",
+  "weeklyRecurrence": 1,
+  "recurrenceDateEndd": "12\/31\/2025",
+  "group": "МБ23-01",
+  "Заметки": "МБ3"
+ },
+ {
+  "EventName": "Общая и медицинская радиобиология",
+  "EventType": "Лекция",
+  "eventDateStartd": "15-Dec-25",
+  "eventDateStartTime": "13:50",
+  "eventDateEndTime": "15:30",
+  "weeklyRecurrence": 0,
+  "recurrenceDateEndd": "12\/31\/2025",
+  "group": "МБ23-01",
+  "Заметки": "МБ3"
+ },
+ {
+  "EventName": "Правоведение",
+  "EventType": "Лекция",
+  "eventDateStartd": "25-Nov-25",
+  "eventDateStartTime": "08:00",
+  "eventDateEndTime": "09:40",
+  "weeklyRecurrence": 0,
+  "recurrenceDateEndd": "12\/31\/2025",
+  "group": "МБ23-01",
+  "Заметки": "МБ3"
+ },
+ {
+  "EventName": "Общая и медицинская биофизика",
+  "EventType": "Лекция",
+  "eventDateStartd": "25-Nov-25",
+  "eventDateStartTime": "11:50",
+  "eventDateEndTime": "13:30",
+  "weeklyRecurrence": 0,
+  "recurrenceDateEndd": "12\/31\/2025",
+  "group": "МБ23-01",
+  "Заметки": "МБ3"
+ },
+ {
+  "EventName": "Общая и медицинская биофизика",
+  "EventType": "Лекция",
+  "eventDateStartd": "09-Dec-25",
+  "eventDateStartTime": "11:50",
+  "eventDateEndTime": "13:30",
+  "weeklyRecurrence": 0,
+  "recurrenceDateEndd": "12\/31\/2025",
+  "group": "МБ23-01",
+  "Заметки": "МБ3"
+ },
+ {
+  "EventName": "Общая и медицинская биофизика",
+  "EventType": "Лекция",
+  "eventDateStartd": "23-Dec-25",
+  "eventDateStartTime": "11:50",
+  "eventDateEndTime": "13:30",
+  "weeklyRecurrence": 0,
+  "recurrenceDateEndd": "12\/31\/2025",
+  "group": "МБ23-01",
+  "Заметки": "МБ3"
+ },
+ {
+  "EventName": "Биоэтика",
+  "EventType": "Лекция",
+  "eventDateStartd": "02-Dec-25",
+  "eventDateStartTime": "11:40",
+  "eventDateEndTime": "13:20",
+  "weeklyRecurrence": 0,
+  "recurrenceDateEndd": "12\/31\/2025",
+  "group": "МБ23-01",
+  "Заметки": "МБ3"
+ },
+ {
+  "EventName": "Правоведение",
+  "EventType": "Семинар",
+  "eventDateStartd": "18-Nov-25",
+  "eventDateStartTime": "09:50",
+  "eventDateEndTime": "11:30",
+  "weeklyRecurrence": 1,
+  "recurrenceDateEndd": "12\/31\/2025",
+  "group": "МБ23-01",
+  "Заметки": "МБ3"
+ },
+ {
+  "EventName": "Общая и медицинская биофизика",
+  "EventType": "Семинар",
+  "eventDateStartd": "18-Nov-25",
+  "eventDateStartTime": "13:40",
+  "eventDateEndTime": "16:10",
+  "weeklyRecurrence": 1,
+  "recurrenceDateEndd": "12\/31\/2025",
+  "group": "МБ23-01",
+  "Заметки": "МБ3"
+ },
+ {
+  "EventName": "Элекетивная дисциплина 2",
+  "EventType": "Семинар",
+  "eventDateStartd": "19-Nov-25",
+  "eventDateStartTime": "10:50",
+  "eventDateEndTime": "12:20",
+  "weeklyRecurrence": 1,
+  "recurrenceDateEndd": "12\/31\/2025",
+  "group": "МБ23-01",
+  "Заметки": "МБ3"
+ },
+ {
+  "EventName": "Психология и педагогика",
+  "EventType": "Семинар",
+  "eventDateStartd": "19-Nov-25",
+  "eventDateStartTime": "13:00",
+  "eventDateEndTime": "15:30",
+  "weeklyRecurrence": 1,
+  "recurrenceDateEndd": "12\/31\/2025",
+  "group": "МБ23-01",
+  "Заметки": "МБ3"
+ },
+ {
+  "EventName": "Биоэтика",
+  "EventType": "Семинар",
+  "eventDateStartd": "20-Nov-25",
+  "eventDateStartTime": "09:00",
+  "eventDateEndTime": "10:40",
+  "weeklyRecurrence": 1,
+  "recurrenceDateEndd": "12\/31\/2025",
+  "group": "МБ23-01",
+  "Заметки": "МБ3"
+ },
+ {
+  "EventName": "Общая биохимия",
+  "EventType": "Лекция",
+  "eventDateStartd": "20-Nov-25",
+  "eventDateStartTime": "11:00",
+  "eventDateEndTime": "12:40",
+  "weeklyRecurrence": 1,
+  "recurrenceDateEndd": "12\/31\/2025",
+  "group": "МБ23-01",
+  "Заметки": "МБ3"
+ },
+ {
+  "EventName": "Общая биохимия",
+  "EventType": "Семинар",
+  "eventDateStartd": "20-Nov-25",
+  "eventDateStartTime": "13:20",
+  "eventDateEndTime": "16:40",
+  "weeklyRecurrence": 1,
+  "recurrenceDateEndd": "12\/31\/2025",
+  "group": "МБ23-01",
+  "Заметки": "МБ3"
+ },
+ {
+  "EventName": "Физическая подготовка",
+  "EventType": "Семинар",
+  "eventDateStartd": "21-Nov-25",
+  "eventDateStartTime": "09:50",
+  "eventDateEndTime": "11:30",
+  "weeklyRecurrence": 1,
+  "recurrenceDateEndd": "12\/31\/2025",
+  "group": "МБ23-01",
+  "Заметки": "МБ3"
+ },
+ {
+  "EventName": "Информатика, мед. Информатика",
+  "EventType": "Семинар",
+  "eventDateStartd": "21-Nov-25",
+  "eventDateStartTime": "12:30",
+  "eventDateEndTime": "15:00",
+  "weeklyRecurrence": 1,
+  "recurrenceDateEndd": "12\/31\/2025",
+  "group": "МБ23-01",
+  "Заметки": "МБ3"
+ },
+ {
+  "EventName": "Репаративная медицина",
+  "EventType": "Семинар",
+  "eventDateStartd": "21-Nov-25",
+  "eventDateStartTime": "15:10",
+  "eventDateEndTime": "17:30",
+  "weeklyRecurrence": 1,
+  "recurrenceDateEndd": "12\/31\/2025",
+  "group": "МБ23-01",
+  "Заметки": "МБ3"
+ },
+ {
+  "EventName": "Физическая культура и спорт",
+  "EventType": "Семинар",
+  "eventDateStartd": "22-Nov-25",
+  "eventDateStartTime": "08:20",
+  "eventDateEndTime": "10:20",
+  "weeklyRecurrence": 1,
+  "recurrenceDateEndd": "12\/31\/2025",
+  "group": "МБ23-01",
+  "Заметки": "МБ3"
+ },
+ {
+  "EventName": "Медицинская биохимия",
+  "EventType": "Семинар",
+  "eventDateStartd": "17-Nov-25",
+  "eventDateStartTime": "08:00",
+  "eventDateEndTime": "10:30",
+  "weeklyRecurrence": 1,
+  "recurrenceDateEndd": "12\/31\/2025",
+  "group": "МБ22-01",
+  "Заметки": "МБ4"
+ },
+ {
+  "EventName": "Частная патофизиология",
+  "EventType": "Семинар",
+  "eventDateStartd": "17-Nov-25",
+  "eventDateStartTime": "11:00",
+  "eventDateEndTime": "13:30",
+  "weeklyRecurrence": 1,
+  "recurrenceDateEndd": "12\/31\/2025",
+  "group": "МБ22-01",
+  "Заметки": "МБ4"
+ },
+ {
+  "EventName": "Частная патофизиология",
+  "EventType": "Лекция",
+  "eventDateStartd": "24-Nov-25",
+  "eventDateStartTime": "13:40",
+  "eventDateEndTime": "15:20",
+  "weeklyRecurrence": 0,
+  "recurrenceDateEndd": "12\/31\/2025",
+  "group": "МБ22-01",
+  "Заметки": "МБ4"
+ },
+ {
+  "EventName": "Частная патофизиология",
+  "EventType": "Лекция",
+  "eventDateStartd": "08-Dec-25",
+  "eventDateStartTime": "13:40",
+  "eventDateEndTime": "15:20",
+  "weeklyRecurrence": 0,
+  "recurrenceDateEndd": "12\/31\/2025",
+  "group": "МБ22-01",
+  "Заметки": "МБ4"
+ },
+ {
+  "EventName": "Частная патофизиология",
+  "EventType": "Лекция",
+  "eventDateStartd": "22-Dec-25",
+  "eventDateStartTime": "13:40",
+  "eventDateEndTime": "15:20",
+  "weeklyRecurrence": 0,
+  "recurrenceDateEndd": "12\/31\/2025",
+  "group": "МБ22-01",
+  "Заметки": "МБ4"
+ },
+ {
+  "EventName": "Патологическая анатомия",
+  "EventType": "Семинар",
+  "eventDateStartd": "18-Nov-25",
+  "eventDateStartTime": "08:00",
+  "eventDateEndTime": "11:20",
+  "weeklyRecurrence": 1,
+  "recurrenceDateEndd": "12\/31\/2025",
+  "group": "МБ22-01",
+  "Заметки": "МБ4"
+ },
+ {
+  "EventName": "Патологическая анатомия",
+  "EventType": "Лекция",
+  "eventDateStartd": "25-Nov-25",
+  "eventDateStartTime": "11:30",
+  "eventDateEndTime": "13:10",
+  "weeklyRecurrence": 0,
+  "recurrenceDateEndd": "12\/31\/2025",
+  "group": "МБ22-01",
+  "Заметки": "МБ4"
+ },
+ {
+  "EventName": "Медицинская биохимия",
+  "EventType": "Лекция",
+  "eventDateStartd": "02-Dec-25",
+  "eventDateStartTime": "14:30",
+  "eventDateEndTime": "16:10",
+  "weeklyRecurrence": 0,
+  "recurrenceDateEndd": "12\/31\/2025",
+  "group": "МБ22-01",
+  "Заметки": "МБ4"
+ },
+ {
+  "EventName": "Медицинская биохимия",
+  "EventType": "Лекция",
+  "eventDateStartd": "16-Dec-25",
+  "eventDateStartTime": "14:30",
+  "eventDateEndTime": "16:10",
+  "weeklyRecurrence": 0,
+  "recurrenceDateEndd": "12\/31\/2025",
+  "group": "МБ22-01",
+  "Заметки": "МБ4"
+ },
+ {
+  "EventName": "Медицинская биохимия",
+  "EventType": "Лекция",
+  "eventDateStartd": "30-Dec-25",
+  "eventDateStartTime": "14:30",
+  "eventDateEndTime": "16:10",
+  "weeklyRecurrence": 0,
+  "recurrenceDateEndd": "12\/31\/2025",
+  "group": "МБ22-01",
+  "Заметки": "МБ4"
+ },
+ {
+  "EventName": "Фармакология",
+  "EventType": "Лекция",
+  "eventDateStartd": "25-Nov-25",
+  "eventDateStartTime": "14:30",
+  "eventDateEndTime": "16:10",
+  "weeklyRecurrence": 0,
+  "recurrenceDateEndd": "12\/31\/2025",
+  "group": "МБ22-01",
+  "Заметки": "МБ4"
+ },
+ {
+  "EventName": "Фармакология",
+  "EventType": "Лекция",
+  "eventDateStartd": "09-Dec-25",
+  "eventDateStartTime": "14:30",
+  "eventDateEndTime": "16:10",
+  "weeklyRecurrence": 0,
+  "recurrenceDateEndd": "12\/31\/2025",
+  "group": "МБ22-01",
+  "Заметки": "МБ4"
+ },
+ {
+  "EventName": "Общая иммунология",
+  "EventType": "Семинар",
+  "eventDateStartd": "19-Nov-25",
+  "eventDateStartTime": "08:00",
+  "eventDateEndTime": "10:40",
+  "weeklyRecurrence": 1,
+  "recurrenceDateEndd": "12\/31\/2025",
+  "group": "МБ22-01",
+  "Заметки": "МБ4"
+ },
+ {
+  "EventName": "Клиническая микробиология",
+  "EventType": "Семинар",
+  "eventDateStartd": "19-Nov-25",
+  "eventDateStartTime": "10:50",
+  "eventDateEndTime": "12:30",
+  "weeklyRecurrence": 1,
+  "recurrenceDateEndd": "12\/31\/2025",
+  "group": "МБ22-01",
+  "Заметки": "МБ4"
+ },
+ {
+  "EventName": "Медицина катостроф",
+  "EventType": "Семинар",
+  "eventDateStartd": "19-Nov-25",
+  "eventDateStartTime": "13:00",
+  "eventDateEndTime": "15:40",
+  "weeklyRecurrence": 1,
+  "recurrenceDateEndd": "12\/31\/2025",
+  "group": "МБ22-01",
+  "Заметки": "МБ4"
+ },
+ {
+  "EventName": "Теория и практика гематологических исследований",
+  "EventType": "Семинар",
+  "eventDateStartd": "20-Nov-25",
+  "eventDateStartTime": "08:00",
+  "eventDateEndTime": "10:40",
+  "weeklyRecurrence": 1,
+  "recurrenceDateEndd": "12\/31\/2025",
+  "group": "МБ22-01",
+  "Заметки": "МБ4"
+ },
+ {
+  "EventName": "Теория и практика гематологических исследований",
+  "EventType": "Лекция",
+  "eventDateStartd": "04-Dec-25",
+  "eventDateStartTime": "10:50",
+  "eventDateEndTime": "12:30",
+  "weeklyRecurrence": 0,
+  "recurrenceDateEndd": "12\/31\/2025",
+  "group": "МБ22-01",
+  "Заметки": "МБ4"
+ },
+ {
+  "EventName": "Теория и практика гематологических исследований",
+  "EventType": "Лекция",
+  "eventDateStartd": "18-Dec-25",
+  "eventDateStartTime": "10:50",
+  "eventDateEndTime": "12:30",
+  "weeklyRecurrence": 0,
+  "recurrenceDateEndd": "12\/31\/2025",
+  "group": "МБ22-01",
+  "Заметки": "МБ4"
+ },
+ {
+  "EventName": "Общая и медицинская биофизика",
+  "EventType": "Лекция",
+  "eventDateStartd": "27-Nov-25",
+  "eventDateStartTime": "10:50",
+  "eventDateEndTime": "12:30",
+  "weeklyRecurrence": 0,
+  "recurrenceDateEndd": "12\/31\/2025",
+  "group": "МБ22-01",
+  "Заметки": "МБ4"
+ },
+ {
+  "EventName": "Общая и медицинская биофизика",
+  "EventType": "Лекция",
+  "eventDateStartd": "11-Dec-25",
+  "eventDateStartTime": "10:50",
+  "eventDateEndTime": "12:30",
+  "weeklyRecurrence": 0,
+  "recurrenceDateEndd": "12\/31\/2025",
+  "group": "МБ22-01",
+  "Заметки": "МБ4"
+ },
+ {
+  "EventName": "Общая и медицинская биофизика",
+  "EventType": "Лекция",
+  "eventDateStartd": "25-Dec-25",
+  "eventDateStartTime": "10:50",
+  "eventDateEndTime": "12:30",
+  "weeklyRecurrence": 0,
+  "recurrenceDateEndd": "12\/31\/2025",
+  "group": "МБ22-01",
+  "Заметки": "МБ4"
+ },
+ {
+  "EventName": "Общая и медицинская биофизика",
+  "EventType": "Семинар",
+  "eventDateStartd": "20-Nov-25",
+  "eventDateStartTime": "12:40",
+  "eventDateEndTime": "15:10",
+  "weeklyRecurrence": 1,
+  "recurrenceDateEndd": "12\/31\/2025",
+  "group": "МБ22-01",
+  "Заметки": "МБ4"
+ },
+ {
+  "EventName": "Физическая культура и спорт",
+  "EventType": "Семинар",
+  "eventDateStartd": "21-Nov-25",
+  "eventDateStartTime": "09:00",
+  "eventDateEndTime": "11:00",
+  "weeklyRecurrence": 1,
+  "recurrenceDateEndd": "12\/31\/2025",
+  "group": "МБ22-01",
+  "Заметки": "МБ4"
+ },
+ {
+  "EventName": "Общая иммунология",
+  "EventType": "Лекция",
+  "eventDateStartd": "28-Nov-25",
+  "eventDateStartTime": "11:30",
+  "eventDateEndTime": "13:10",
+  "weeklyRecurrence": 0,
+  "recurrenceDateEndd": "12\/31\/2025",
+  "group": "МБ22-01",
+  "Заметки": "МБ4"
+ },
+ {
+  "EventName": "Общая иммунология",
+  "EventType": "Лекция",
+  "eventDateStartd": "12-Dec-25",
+  "eventDateStartTime": "11:30",
+  "eventDateEndTime": "13:10",
+  "weeklyRecurrence": 0,
+  "recurrenceDateEndd": "12\/31\/2025",
+  "group": "МБ22-01",
+  "Заметки": "МБ4"
+ },
+ {
+  "EventName": "Общая иммунология",
+  "EventType": "Лекция",
+  "eventDateStartd": "26-Dec-25",
+  "eventDateStartTime": "11:30",
+  "eventDateEndTime": "13:10",
+  "weeklyRecurrence": 0,
+  "recurrenceDateEndd": "12\/31\/2025",
+  "group": "МБ22-01",
+  "Заметки": "МБ4"
+ },
+ {
+  "EventName": "Фармакология",
+  "EventType": "Семинар",
+  "eventDateStartd": "21-Nov-25",
+  "eventDateStartTime": "13:20",
+  "eventDateEndTime": "15:50",
+  "weeklyRecurrence": 1,
+  "recurrenceDateEndd": "12\/31\/2025",
+  "group": "МБ22-01",
+  "Заметки": "МБ4"
+ },
+ {
+  "EventName": "Внутренние болезни",
+  "EventType": "Семинар",
+  "eventDateStartd": "24-Nov-25",
+  "eventDateStartTime": "08:00",
+  "eventDateEndTime": "15:00",
+  "weeklyRecurrence": 6,
+  "recurrenceDateEndd": "12\/20\/2025",
+  "group": "МБ21-01",
+  "Заметки": "МБ5"
+ },
+ {
+  "EventName": "Клиническая фармакология",
+  "EventType": "Семинар",
+  "eventDateStartd": "22-Dec-25",
+  "eventDateStartTime": "08:00",
+  "eventDateEndTime": "15:00",
+  "weeklyRecurrence": 6,
+  "recurrenceDateEndd": "12\/30\/2025",
+  "group": "МБ21-01",
+  "Заметки": "МБ5"
+ },
+ {
+  "EventName": "Дисциплина по выбору",
+  "EventType": "Семинар",
+  "eventDateStartd": "19-Nov-25",
+  "eventDateStartTime": "08:00",
+  "eventDateEndTime": "15:00",
+  "weeklyRecurrence": 6,
+  "recurrenceDateEndd": "11\/27\/2025",
+  "group": "МБ20-01",
+  "Заметки": "МБ6"
+ },
+ {
+  "EventName": "Медицинские биотехнологии",
+  "EventType": "Семинар",
+  "eventDateStartd": "28-Nov-25",
+  "eventDateStartTime": "08:00",
+  "eventDateEndTime": "15:00",
+  "weeklyRecurrence": 6,
+  "recurrenceDateEndd": "12\/24\/2025",
+  "group": "МБ20-01",
+  "Заметки": "МБ6"
+ },
+
+ {
+  "EventName": "Физика, математика",
+  "EventType": "Семинар",
+  "eventDateStartd": "17-Nov-25",
+  "eventDateStartTime": "08:30",
+  "eventDateEndTime": "11:00",
+  "weeklyRecurrence": 1,
+  "recurrenceDateEndd": "12\/31\/2025",
+  "group": "С25-01;С25-02;С25-03",
+  "Заметки": "стомат1 - 1\/2\/3"
+ },
+ {
+  "EventName": "Физика, математика",
+  "EventType": "Лекция",
+  "eventDateStartd": "24-Nov-25",
+  "eventDateStartTime": "11:10",
+  "eventDateEndTime": "12:50",
+  "weeklyRecurrence": 0,
+  "recurrenceDateEndd": "12\/31\/2025",
+  "group": "С25-01;С25-02;С25-03",
+  "Заметки": "стомат1 - 1\/2\/3"
+ },
+ {
+  "EventName": "Физика, математика",
+  "EventType": "Лекция",
+  "eventDateStartd": "08-Dec-25",
+  "eventDateStartTime": "11:10",
+  "eventDateEndTime": "12:50",
+  "weeklyRecurrence": 0,
+  "recurrenceDateEndd": "12\/31\/2025",
+  "group": "С25-01;С25-02;С25-03",
+  "Заметки": "стомат1 - 1\/2\/3"
+ },
+ {
+  "EventName": "Физика, математика",
+  "EventType": "Лекция",
+  "eventDateStartd": "22-Dec-25",
+  "eventDateStartTime": "11:10",
+  "eventDateEndTime": "12:50",
+  "weeklyRecurrence": 0,
+  "recurrenceDateEndd": "12\/31\/2025",
+  "group": "С25-01;С25-02;С25-03",
+  "Заметки": "стомат1 - 1\/2\/3"
+ },
+ {
+  "EventName": "Анатомия человека",
+  "EventType": "Семинар",
+  "eventDateStartd": "17-Nov-25",
+  "eventDateStartTime": "13:20",
+  "eventDateEndTime": "15:50",
+  "weeklyRecurrence": 1,
+  "recurrenceDateEndd": "12\/31\/2025",
+  "group": "С25-01;С25-02;С25-03",
+  "Заметки": "стомат1 - 1\/2\/3"
+ },
+ {
+  "EventName": "Анатомия человека",
+  "EventType": "Лекция",
+  "eventDateStartd": "01-Dec-25",
+  "eventDateStartTime": "11:30",
+  "eventDateEndTime": "13:10",
+  "weeklyRecurrence": 0,
+  "recurrenceDateEndd": "12\/31\/2025",
+  "group": "С25-01;С25-02;С25-03",
+  "Заметки": "стомат1 - 1\/2\/3"
+ },
+ {
+  "EventName": "Анатомия человека",
+  "EventType": "Лекция",
+  "eventDateStartd": "15-Dec-25",
+  "eventDateStartTime": "11:30",
+  "eventDateEndTime": "13:10",
+  "weeklyRecurrence": 0,
+  "recurrenceDateEndd": "12\/31\/2025",
+  "group": "С25-01;С25-02;С25-03",
+  "Заметки": "стомат1 - 1\/2\/3"
+ },
+ {
+  "EventName": "Анатомия человека",
+  "EventType": "Лекция",
+  "eventDateStartd": "29-Dec-25",
+  "eventDateStartTime": "11:30",
+  "eventDateEndTime": "13:10",
+  "weeklyRecurrence": 0,
+  "recurrenceDateEndd": "12\/31\/2025",
+  "group": "С25-01;С25-02;С25-03",
+  "Заметки": "стомат1 - 1\/2\/3"
+ },
+ {
+  "EventName": "История России",
+  "EventType": "Семинар",
+  "eventDateStartd": "18-Nov-25",
+  "eventDateStartTime": "08:00",
+  "eventDateEndTime": "10:30",
+  "weeklyRecurrence": 1,
+  "recurrenceDateEndd": "12\/31\/2025",
+  "group": "С25-01;С25-02;С25-03",
+  "Заметки": "стомат1 - 1\/2\/3"
+ },
+ {
+  "EventName": "История России",
+  "EventType": "Лекция",
+  "eventDateStartd": "18-Nov-25",
+  "eventDateStartTime": "10:40",
+  "eventDateEndTime": "12:20",
+  "weeklyRecurrence": 1,
+  "recurrenceDateEndd": "12\/31\/2025",
+  "group": "С25-01;С25-02;С25-03",
+  "Заметки": "стомат1 - 1\/2\/3"
+ },
+ {
+  "EventName": "Латинский язык",
+  "EventType": "Семинар",
+  "eventDateStartd": "18-Nov-25",
+  "eventDateStartTime": "12:50",
+  "eventDateEndTime": "14:30",
+  "weeklyRecurrence": 1,
+  "recurrenceDateEndd": "12\/31\/2025",
+  "group": "С25-01;С25-02;С25-03",
+  "Заметки": "стомат1 - 1\/3"
+ },
+ {
+  "EventName": "Биология",
+  "EventType": "Семинар",
+  "eventDateStartd": "18-Nov-25",
+  "eventDateStartTime": "13:00",
+  "eventDateEndTime": "14:40",
+  "weeklyRecurrence": 1,
+  "recurrenceDateEndd": "12\/31\/2025",
+  "group": "С25-02",
+  "Заметки": "стомат1 - 2"
+ },
+ {
+  "EventName": "Физическая подготовка",
+  "EventType": "Семинар",
+  "eventDateStartd": "18-Nov-25",
+  "eventDateStartTime": "15:00",
+  "eventDateEndTime": "16:40",
+  "weeklyRecurrence": 1,
+  "recurrenceDateEndd": "12\/31\/2025",
+  "group": "С25-01;С25-02;С25-03",
+  "Заметки": "стомат1 - 1\/2\/3"
+ },
+ {
+  "EventName": "Химия",
+  "EventType": "Семинар",
+  "eventDateStartd": "19-Nov-25",
+  "eventDateStartTime": "08:00",
+  "eventDateEndTime": "13:00",
+  "weeklyRecurrence": 1,
+  "recurrenceDateEndd": "12\/31\/2025",
+  "group": "С25-01;С25-02;С25-03",
+  "Заметки": "стомат1 - 1\/2\/3"
+ },
+ {
+  "EventName": "Иностранный язык",
+  "EventType": "Семинар",
+  "eventDateStartd": "19-Nov-25",
+  "eventDateStartTime": "13:50",
+  "eventDateEndTime": "15:30",
+  "weeklyRecurrence": 1,
+  "recurrenceDateEndd": "12\/31\/2025",
+  "group": "С25-01;С25-02;С25-03",
+  "Заметки": "стомат1 - 1\/2\/3"
+ },
+ {
+  "EventName": "Иностранный язык профессионального общения",
+  "EventType": "Семинар",
+  "eventDateStartd": "19-Nov-25",
+  "eventDateStartTime": "15:40",
+  "eventDateEndTime": "16:40",
+  "weeklyRecurrence": 1,
+  "recurrenceDateEndd": "12\/31\/2025",
+  "group": "С25-01;С25-02;С25-03",
+  "Заметки": "стомат1 - 1\/2\/3"
+ },
+ {
+  "EventName": "Психология и педагогика",
+  "EventType": "Семинар",
+  "eventDateStartd": "20-Nov-25",
+  "eventDateStartTime": "10:30",
+  "eventDateEndTime": "12:10",
+  "weeklyRecurrence": 1,
+  "recurrenceDateEndd": "12\/31\/2025",
+  "group": "С25-01;С25-03",
+  "Заметки": "стомат1 - 1\/3"
+ },
+ {
+  "EventName": "Латинский язык",
+  "EventType": "Семинар",
+  "eventDateStartd": "20-Nov-25",
+  "eventDateStartTime": "08:30",
+  "eventDateEndTime": "10:00",
+  "weeklyRecurrence": 1,
+  "recurrenceDateEndd": "12\/31\/2025",
+  "group": "С25-02",
+  "Заметки": "стомат1 - 2"
+ },
+ {
+  "EventName": "Биология",
+  "EventType": "Семинар",
+  "eventDateStartd": "20-Nov-25",
+  "eventDateStartTime": "13:00",
+  "eventDateEndTime": "14:40",
+  "weeklyRecurrence": 1,
+  "recurrenceDateEndd": "12\/31\/2025",
+  "group": "С25-01;С25-03",
+  "Заметки": "стомат1 - 1\/3"
+ },
+ {
+  "EventName": "Гистология, эмбриология, цитология",
+  "EventType": "Семинар",
+  "eventDateStartd": "21-Nov-25",
+  "eventDateStartTime": "08:00",
+  "eventDateEndTime": "10:30",
+  "weeklyRecurrence": 1,
+  "recurrenceDateEndd": "12\/31\/2025",
+  "group": "С25-01",
+  "Заметки": "стомат1 - 1"
+ },
+ {
+  "EventName": "Психология и педагогика",
+  "EventType": "Семинар",
+  "eventDateStartd": "21-Nov-25",
+  "eventDateStartTime": "08:20",
+  "eventDateEndTime": "10:00",
+  "weeklyRecurrence": 1,
+  "recurrenceDateEndd": "12\/31\/2025",
+  "group": "С25-02",
+  "Заметки": "стомат1 - 2"
+ },
+ {
+  "EventName": "Биоэтика",
+  "EventType": "Семинар",
+  "eventDateStartd": "21-Nov-25",
+  "eventDateStartTime": "10:40",
+  "eventDateEndTime": "13:10",
+  "weeklyRecurrence": 1,
+  "recurrenceDateEndd": "12\/31\/2025",
+  "group": "С25-01;С25-03",
+  "Заметки": "стомат1 - 1\/3"
+ },
+ {
+  "EventName": "Гистология, эмбриология, цитология",
+  "EventType": "Семинар",
+  "eventDateStartd": "21-Nov-25",
+  "eventDateStartTime": "10:40",
+  "eventDateEndTime": "13:10",
+  "weeklyRecurrence": 1,
+  "recurrenceDateEndd": "12\/31\/2025",
+  "group": "С25-02",
+  "Заметки": "стомат1 - 2"
+ },
+ {
+  "EventName": "Биоэтика",
+  "EventType": "Семинар",
+  "eventDateStartd": "21-Nov-25",
+  "eventDateStartTime": "13:20",
+  "eventDateEndTime": "15:50",
+  "weeklyRecurrence": 1,
+  "recurrenceDateEndd": "12\/31\/2025",
+  "group": "С25-02",
+  "Заметки": "стомат1 - 2"
+ },
+ {
+  "EventName": "Гистология, эмбриология, цитология",
+  "EventType": "Семинар",
+  "eventDateStartd": "21-Nov-25",
+  "eventDateStartTime": "13:20",
+  "eventDateEndTime": "15:50",
+  "weeklyRecurrence": 1,
+  "recurrenceDateEndd": "12\/31\/2025",
+  "group": "С25-03",
+  "Заметки": "стомат1 - 3"
+ },
+ {
+  "EventName": "Физическая культура и спорт",
+  "EventType": "Семинар",
+  "eventDateStartd": "21-Nov-25",
+  "eventDateStartTime": "16:00",
+  "eventDateEndTime": "18:00",
+  "weeklyRecurrence": 1,
+  "recurrenceDateEndd": "12\/31\/2025",
+  "group": "С25-01;С25-02;С25-03",
+  "Заметки": "стомат1 - 1\/2\/3"
+ },
+
+ {
+  "EventName": "Нормальная физиология",
+  "EventType": "Семинар",
+  "eventDateStartd": "17-Nov-25",
+  "eventDateStartTime": "08:00",
+  "eventDateEndTime": "10:30",
+  "weeklyRecurrence": 1,
+  "recurrenceDateEndd": "12\/31\/2025",
+  "group": "С24-01;С24-02;С24-03",
+  "Заметки": "стомат2 - 1\/2\/3"
+ },
+ {
+  "EventName": "Патофизиология",
+  "EventType": "Семинар",
+  "eventDateStartd": "17-Nov-25",
+  "eventDateStartTime": "12:50",
+  "eventDateEndTime": "14:30",
+  "weeklyRecurrence": 1,
+  "recurrenceDateEndd": "12\/31\/2025",
+  "group": "С24-01;С24-02;С24-03",
+  "Заметки": "стомат2 - 1\/2\/3"
+ },
+ {
+  "EventName": "Медицинская инфоматика",
+  "EventType": "Семинар",
+  "eventDateStartd": "18-Nov-25",
+  "eventDateStartTime": "09:00",
+  "eventDateEndTime": "10:40",
+  "weeklyRecurrence": 1,
+  "recurrenceDateEndd": "12\/31\/2025",
+  "group": "С24-01;С24-03",
+  "Заметки": "стомат2 - 1\/3"
+ },
+ {
+  "EventName": "Стоматология",
+  "EventType": "Семинар",
+  "eventDateStartd": "18-Nov-25",
+  "eventDateStartTime": "08:30",
+  "eventDateEndTime": "11:50",
+  "weeklyRecurrence": 1,
+  "recurrenceDateEndd": "12\/31\/2025",
+  "group": "С24-02",
+  "Заметки": "стомат2 - 2"
+ },
+ {
+  "EventName": "Стоматология",
+  "EventType": "Лекция",
+  "eventDateStartd": "18-Nov-25",
+  "eventDateStartTime": "12:00",
+  "eventDateEndTime": "13:50",
+  "weeklyRecurrence": 1,
+  "recurrenceDateEndd": "12\/31\/2025",
+  "group": "С24-01;С24-02;С24-03",
+  "Заметки": "стомат2 - 1\/2\/3"
+ },
+ {
+  "EventName": "Иностранный язык",
+  "EventType": "Семинар",
+  "eventDateStartd": "18-Nov-25",
+  "eventDateStartTime": "14:30",
+  "eventDateEndTime": "16:10",
+  "weeklyRecurrence": 1,
+  "recurrenceDateEndd": "12\/31\/2025",
+  "group": "С24-01;С24-02;С24-03",
+  "Заметки": "стомат2 - 1\/2\/3"
+ },
+ {
+  "EventName": "Патологическая анатомия",
+  "EventType": "Лекция",
+  "eventDateStartd": "18-Nov-25",
+  "eventDateStartTime": "16:40",
+  "eventDateEndTime": "18:20",
+  "weeklyRecurrence": 1,
+  "recurrenceDateEndd": "12\/31\/2025",
+  "group": "С24-01;С24-02;С24-03",
+  "Заметки": "стомат2 - 1\/2\/3"
+ },
+ {
+  "EventName": "Элективная дисциплина 1",
+  "EventType": "Семинар",
+  "eventDateStartd": "19-Nov-25",
+  "eventDateStartTime": "09:00",
+  "eventDateEndTime": "10:40",
+  "weeklyRecurrence": 1,
+  "recurrenceDateEndd": "12\/31\/2025",
+  "group": "С24-01;С24-02;С24-03",
+  "Заметки": "стомат2 - 1\/2\/3"
+ },
+ {
+  "EventName": "Патологическая анатомия",
+  "EventType": "Семинар",
+  "eventDateStartd": "19-Nov-25",
+  "eventDateStartTime": "11:30",
+  "eventDateEndTime": "13:10",
+  "weeklyRecurrence": 1,
+  "recurrenceDateEndd": "12\/31\/2025",
+  "group": "С24-01;С24-02;С24-03",
+  "Заметки": "стомат2 - 1\/2\/3"
+ },
+ {
+  "EventName": "Микробиология, вирусология",
+  "EventType": "Семинар",
+  "eventDateStartd": "19-Nov-25",
+  "eventDateStartTime": "13:20",
+  "eventDateEndTime": "15:00",
+  "weeklyRecurrence": 1,
+  "recurrenceDateEndd": "12\/31\/2025",
+  "group": "С24-01;С24-02;С24-03",
+  "Заметки": "стомат2 - 1\/2\/3"
+ },
+ {
+  "EventName": "Микробиология, вирусология",
+  "EventType": "Лекция",
+  "eventDateStartd": "26-Nov-25",
+  "eventDateStartTime": "15:10",
+  "eventDateEndTime": "16:50",
+  "weeklyRecurrence": 0,
+  "recurrenceDateEndd": "12\/31\/2025",
+  "group": "С24-01;С24-02;С24-03",
+  "Заметки": "стомат2 - 1\/2\/3"
+ },
+ {
+  "EventName": "Микробиология, вирусология",
+  "EventType": "Лекция",
+  "eventDateStartd": "10-Dec-25",
+  "eventDateStartTime": "15:10",
+  "eventDateEndTime": "16:50",
+  "weeklyRecurrence": 0,
+  "recurrenceDateEndd": "12\/31\/2025",
+  "group": "С24-01;С24-02;С24-03",
+  "Заметки": "стомат2 - 1\/2\/3"
+ },
+ {
+  "EventName": "Стоматология",
+  "EventType": "Семинар",
+  "eventDateStartd": "20-Nov-25",
+  "eventDateStartTime": "08:30",
+  "eventDateEndTime": "11:50",
+  "weeklyRecurrence": 1,
+  "recurrenceDateEndd": "12\/31\/2025",
+  "group": "С24-01",
+  "Заметки": "стомат2 - 1"
+ },
+ {
+  "EventName": "Правоведение",
+  "EventType": "Семинар",
+  "eventDateStartd": "20-Nov-25",
+  "eventDateStartTime": "11:20",
+  "eventDateEndTime": "13:00",
+  "weeklyRecurrence": 1,
+  "recurrenceDateEndd": "12\/31\/2025",
+  "group": "С24-02;С24-03",
+  "Заметки": "стомат2 - 2\/3"
+ },
+ {
+  "EventName": "Анатомаия человека",
+  "EventType": "Семинар",
+  "eventDateStartd": "20-Nov-25",
+  "eventDateStartTime": "13:30",
+  "eventDateEndTime": "16:00",
+  "weeklyRecurrence": 1,
+  "recurrenceDateEndd": "12\/31\/2025",
+  "group": "С24-01;С24-02;С24-03",
+  "Заметки": "стомат2 - 1\/2\/3"
+ },
+ {
+  "EventName": "Анатомаия человека",
+  "EventType": "Лекция",
+  "eventDateStartd": "27-Nov-25",
+  "eventDateStartTime": "16:10",
+  "eventDateEndTime": "17:50",
+  "weeklyRecurrence": 0,
+  "recurrenceDateEndd": "12\/31\/2025",
+  "group": "С24-01;С24-02;С24-03",
+  "Заметки": "стомат2 - 1\/2\/3"
+ },
+ {
+  "EventName": "Анатомаия человека",
+  "EventType": "Лекция",
+  "eventDateStartd": "11-Dec-25",
+  "eventDateStartTime": "16:10",
+  "eventDateEndTime": "17:50",
+  "weeklyRecurrence": 0,
+  "recurrenceDateEndd": "12\/31\/2025",
+  "group": "С24-01;С24-02;С24-03",
+  "Заметки": "стомат2 - 1\/2\/3"
+ },
+ {
+  "EventName": "Анатомаия человека",
+  "EventType": "Лекция",
+  "eventDateStartd": "25-Dec-25",
+  "eventDateStartTime": "16:10",
+  "eventDateEndTime": "17:50",
+  "weeklyRecurrence": 0,
+  "recurrenceDateEndd": "12\/31\/2025",
+  "group": "С24-01;С24-02;С24-03",
+  "Заметки": "стомат2 - 1\/2\/3"
+ },
+ {
+  "EventName": "Правоведение",
+  "EventType": "Семинар",
+  "eventDateStartd": "21-Nov-25",
+  "eventDateStartTime": "10:50",
+  "eventDateEndTime": "12:30",
+  "weeklyRecurrence": 1,
+  "recurrenceDateEndd": "12\/31\/2025",
+  "group": "С24-01",
+  "Заметки": "стомат2 - 1"
+ },
+ {
+  "EventName": "Медицинская информатика",
+  "EventType": "Семинар",
+  "eventDateStartd": "21-Nov-25",
+  "eventDateStartTime": "10:40",
+  "eventDateEndTime": "12:20",
+  "weeklyRecurrence": 1,
+  "recurrenceDateEndd": "12\/31\/2025",
+  "group": "С24-02",
+  "Заметки": "стомат2 - 2"
+ },
+ {
+  "EventName": "Стоматология",
+  "EventType": "Семинар",
+  "eventDateStartd": "21-Nov-25",
+  "eventDateStartTime": "08:50",
+  "eventDateEndTime": "12:10",
+  "weeklyRecurrence": 1,
+  "recurrenceDateEndd": "12\/31\/2025",
+  "group": "С24-03",
+  "Заметки": "стомат2 - 3"
+ },
+ {
+  "EventName": "Философия",
+  "EventType": "Семинар",
+  "eventDateStartd": "21-Nov-25",
+  "eventDateStartTime": "13:00",
+  "eventDateEndTime": "14:40",
+  "weeklyRecurrence": 1,
+  "recurrenceDateEndd": "12\/31\/2025",
+  "group": "С24-01;С24-02",
+  "Заметки": "стомат2 - 1\/2"
+ },
+ {
+  "EventName": "Биологическая химия",
+  "EventType": "Семинар",
+  "eventDateStartd": "21-Nov-25",
+  "eventDateStartTime": "13:00",
+  "eventDateEndTime": "14:40",
+  "weeklyRecurrence": 1,
+  "recurrenceDateEndd": "12\/31\/2025",
+  "group": "С24-03",
+  "Заметки": "стомат2 - 3"
+ },
+ {
+  "EventName": "Биологическая химия",
+  "EventType": "Семинар",
+  "eventDateStartd": "21-Nov-25",
+  "eventDateStartTime": "14:50",
+  "eventDateEndTime": "16:30",
+  "weeklyRecurrence": 1,
+  "recurrenceDateEndd": "12\/31\/2025",
+  "group": "С24-01;С24-02;",
+  "Заметки": "стомат2 - 1\/2"
+ },
+ {
+  "EventName": "Философия",
+  "EventType": "Семинар",
+  "eventDateStartd": "21-Nov-25",
+  "eventDateStartTime": "14:50",
+  "eventDateEndTime": "16:30",
+  "weeklyRecurrence": 1,
+  "recurrenceDateEndd": "12\/31\/2025",
+  "group": "С24-03",
+  "Заметки": "стомат2 - 3"
+ },
+ {
+  "EventName": "Физическая культура и спорт",
+  "EventType": "Семинар",
+  "eventDateStartd": "22-Nov-25",
+  "eventDateStartTime": "08:20",
+  "eventDateEndTime": "10:20",
+  "weeklyRecurrence": 1,
+  "recurrenceDateEndd": "12\/31\/2025",
+  "group": "С24-01;С24-02;С24-03",
+  "Заметки": "стомат2 - 1\/2\/3"
+ },
+
+ {
+  "EventName": "Стоматология",
+  "EventType": "Семинар",
+  "eventDateStartd": "17-Nov-25",
+  "eventDateStartTime": "10:10",
+  "eventDateEndTime": "13:30",
+  "weeklyRecurrence": 1,
+  "recurrenceDateEndd": "12\/31\/2025",
+  "group": "С23-01;С23-02;С23-03",
+  "Заметки": "стомат3 - 1\/2\/3"
+ },
+ {
+  "EventName": "Внутренние болезни, клиническая фармакология",
+  "EventType": "Семинар",
+  "eventDateStartd": "17-Nov-25",
+  "eventDateStartTime": "14:20",
+  "eventDateEndTime": "16:00",
+  "weeklyRecurrence": 1,
+  "recurrenceDateEndd": "12\/31\/2025",
+  "group": "С23-01;С23-02;С23-03",
+  "Заметки": "стомат3 - 1\/2\/3"
+ },
+ {
+  "EventName": "Физическая культура и спорт",
+  "EventType": "Семинар",
+  "eventDateStartd": "18-Nov-25",
+  "eventDateStartTime": "08:10",
+  "eventDateEndTime": "10:10",
+  "weeklyRecurrence": 1,
+  "recurrenceDateEndd": "12\/31\/2025",
+  "group": "С23-01;С23-02;С23-03",
+  "Заметки": "стомат3 - 1\/2\/3"
+ },
+ {
+  "EventName": "Лучевая диагностика",
+  "EventType": "Семинар",
+  "eventDateStartd": "18-Nov-25",
+  "eventDateStartTime": "13:20",
+  "eventDateEndTime": "15:50",
+  "weeklyRecurrence": 1,
+  "recurrenceDateEndd": "12\/31\/2025",
+  "group": "С23-01;С23-02;С23-03",
+  "Заметки": "стомат3 - 1\/2\/3"
+ },
+ {
+  "EventName": "Общая хирургия, хирургические болезни",
+  "EventType": "Семинар",
+  "eventDateStartd": "19-Nov-25",
+  "eventDateStartTime": "08:30",
+  "eventDateEndTime": "10:10",
+  "weeklyRecurrence": 1,
+  "recurrenceDateEndd": "12\/31\/2025",
+  "group": "С23-01;С23-02;С23-03",
+  "Заметки": "стомат3 - 1\/2\/3"
+ },
+ {
+  "EventName": "Фармакология",
+  "EventType": "Семинар",
+  "eventDateStartd": "19-Nov-25",
+  "eventDateStartTime": "13:50",
+  "eventDateEndTime": "15:30",
+  "weeklyRecurrence": 1,
+  "recurrenceDateEndd": "12\/31\/2025",
+  "group": "С23-01;С23-02;С23-03",
+  "Заметки": "стомат3 - 1\/2\/3"
+ },
+ {
+  "EventName": "Фармакология",
+  "EventType": "Лекция",
+  "eventDateStartd": "19-Nov-25",
+  "eventDateStartTime": "15:40",
+  "eventDateEndTime": "17:20",
+  "weeklyRecurrence": 0,
+  "recurrenceDateEndd": "12\/31\/2025",
+  "group": "С23-01;С23-02;С23-03",
+  "Заметки": "стомат3 - 1\/2\/3"
+ },
+ {
+  "EventName": "Стоматология",
+  "EventType": "Семинар",
+  "eventDateStartd": "20-Nov-25",
+  "eventDateStartTime": "08:40",
+  "eventDateEndTime": "12:00",
+  "weeklyRecurrence": 1,
+  "recurrenceDateEndd": "12\/31\/2025",
+  "group": "С23-01;С23-02;С23-03",
+  "Заметки": "стомат3 - 1\/2\/3"
+ },
+ {
+  "EventName": "Медицина катостроф",
+  "EventType": "Семинар",
+  "eventDateStartd": "20-Nov-25",
+  "eventDateStartTime": "13:10",
+  "eventDateEndTime": "15:50",
+  "weeklyRecurrence": 1,
+  "recurrenceDateEndd": "12\/31\/2025",
+  "group": "С23-01;С23-02;С23-03",
+  "Заметки": "стомат3 - 1\/2\/3"
+ },
+ {
+  "EventName": "Стоматология",
+  "EventType": "Лекция",
+  "eventDateStartd": "21-Nov-25",
+  "eventDateStartTime": "08:00",
+  "eventDateEndTime": "09:40",
+  "weeklyRecurrence": 1,
+  "recurrenceDateEndd": "12\/31\/2025",
+  "group": "С23-01;С23-02;С23-03",
+  "Заметки": "стомат3 - 1\/2\/3"
+ },
+ {
+  "EventName": "Стоматология",
+  "EventType": "Семинар",
+  "eventDateStartd": "21-Nov-25",
+  "eventDateStartTime": "09:50",
+  "eventDateEndTime": "13:10",
+  "weeklyRecurrence": 1,
+  "recurrenceDateEndd": "12\/31\/2025",
+  "group": "С23-01;С23-02;С23-03",
+  "Заметки": "стомат3 - 1\/2\/3"
+ },
+ {
+  "EventName": "Гигиена",
+  "EventType": "Семинар",
+  "eventDateStartd": "21-Nov-25",
+  "eventDateStartTime": "13:40",
+  "eventDateEndTime": "16:10",
+  "weeklyRecurrence": 1,
+  "recurrenceDateEndd": "12\/31\/2025",
+  "group": "С23-01;С23-02;С23-03",
+  "Заметки": "стомат3 - 1\/2\/3"
+ },
+ {
+  "EventName": "Стоматология",
+  "EventType": "Семинар",
+  "eventDateStartd": "22-Nov-25",
+  "eventDateStartTime": "09:00",
+  "eventDateEndTime": "12:20",
+  "weeklyRecurrence": 1,
+  "recurrenceDateEndd": "12\/31\/2025",
+  "group": "С23-01;С23-02;С23-03",
+  "Заметки": "стомат3 - 1\/2\/3"
+ },
+ {
+  "EventName": "Фтизиатрия",
+  "EventType": "Семинар",
+  "eventDateStartd": "17-Nov-25",
+  "eventDateStartTime": "08:00",
+  "eventDateEndTime": "15:00",
+  "weeklyRecurrence": 6,
+  "recurrenceDateEndd": "11\/29\/2025",
+  "group": "С22-01;С22-02;С22-03",
+  "Заметки": "стомат4 - 1\/2\/3"
+ },
+ {
+  "EventName": "Стоматология",
+  "EventType": "Семинар",
+  "eventDateStartd": "01-Dec-25",
+  "eventDateStartTime": "08:00",
+  "eventDateEndTime": "15:00",
+  "weeklyRecurrence": 6,
+  "recurrenceDateEndd": "12\/31\/2025",
+  "group": "С22-01;С22-02",
+  "Заметки": "стомат4 - 1\/2"
+ },
+ {
+  "EventName": "Стоматология",
+  "EventType": "Семинар",
+  "eventDateStartd": "01-Dec-25",
+  "eventDateStartTime": "08:00",
+  "eventDateEndTime": "15:00",
+  "weeklyRecurrence": 6,
+  "recurrenceDateEndd": "12\/20\/2025",
+  "group": "С22-03",
+  "Заметки": "стомат4 - 3"
+ },
+ {
+  "EventName": "Онкостоматология и лучевая терапия",
+  "EventType": "Семинар",
+  "eventDateStartd": "22-Dec-25",
+  "eventDateStartTime": "08:00",
+  "eventDateEndTime": "15:00",
+  "weeklyRecurrence": 6,
+  "recurrenceDateEndd": "12\/31\/2025",
+  "group": "С22-03",
+  "Заметки": "стомат4 - 3"
+ },
+ {
+  "EventName": "Стоматология",
+  "EventType": "Семинар",
+  "eventDateStartd": "16-Oct-25",
+  "eventDateStartTime": "08:00",
+  "eventDateEndTime": "15:00",
+  "weeklyRecurrence": 6,
+  "recurrenceDateEndd": "12\/31\/2025",
+  "group": "С21-01;С21-02",
+  "Заметки": "стомат5 - 1\/2"
  }
+
+
+
+
+
 ]
