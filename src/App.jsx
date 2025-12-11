@@ -254,12 +254,20 @@ const loadSchedule = async (userGroup) => {
     };
 
     data.forEach((event) => {
-      if (
-        !event.group ||
-        !event.group.toLowerCase().includes(userGroup.toLowerCase())
-      ) {
-        return;
-      }
+  if (!event.group) return;
+
+  // event.group может быть вида "МК24-01;МБ24-01;МБ24-02"
+  const eventGroups = event.group
+    .split(';')
+    .map((g) => g.trim().toLowerCase())
+    .filter(Boolean);
+
+  const userGroupNorm = (userGroup || '').trim().toLowerCase();
+
+  // строгая проверка принадлежности к одной из групп
+  if (!userGroupNorm || !eventGroups.includes(userGroupNorm)) {
+    return;
+  }
 
       const startDate = parseDate(event.eventDateStartd);
       const weeklyRecurrence = Number(event.weeklyRecurrence || 0);
@@ -320,86 +328,95 @@ const loadSchedule = async (userGroup) => {
     console.error('ОШИБКА:', err);
   }
 };
-  // --- Авторизация только по email + сохранение профиля ---
-  const handleLogin = async (e) => {
-    e.preventDefault();
-    setIsLoading(true);
-    setErrorMsg('');
+  // --- Авторизация по двум email + сохранение профиля ---
+const handleLogin = async (e) => {
+  e.preventDefault();
+  setIsLoading(true);
+  setErrorMsg('');
 
-    try {
-      const response = await fetch('/users.csv');
-      const text = await response.text();
-      const rows = text.split('\n').slice(1);
-      let foundUser = null;
+  try {
+    const response = await fetch('/users.csv');
+    const text = await response.text();
+    const rows = text.split('\n').slice(1); // пропускаем заголовок
+    let foundUser = null;
 
-      rows.forEach((row) => {
-        if (!row.trim()) return;
+    rows.forEach((row) => {
+      if (!row.trim()) return;
 
-        const parts = row.split(';').map((s) => s.trim());
+      const parts = row.split(';').map((s) => s.trim());
 
-        const email = parts[0];
-        const name = parts[1] || '';
-        const group = parts[2] || '';
-        const chat = parts[3] || '';
+      const email = parts[0] || '';   // основная почта
+      const email1 = parts[1] || '';  // доп. почта
+      const name = parts[2] || '';
+      const group = parts[3] || '';
+      const chat = parts[4] || '';
 
-        if (!email) return;
+      if (!email && !email1) return;
 
-        if (email.toLowerCase() === loginForm.email.toLowerCase()) {
-          foundUser = { name, group, email, chat };
-        }
-      });
+      const entered = loginForm.email.trim().toLowerCase();
+      if (!entered) return;
 
-      setTimeout(() => {
-        if (foundUser) {
-          setStudentData(foundUser);
-          setIsAuth(true);
-          loadSchedule(foundUser.group);
+      const e0 = email.toLowerCase();
+      const e1 = email1.toLowerCase();
 
-          try {
-            localStorage.setItem('ysmu_student', JSON.stringify(foundUser));
-          } catch (e) {
-            console.warn('Не удалось сохранить профиль в localStorage', e);
-          }
-        } else {
-          setErrorMsg('Пользователь с таким email не найден');
-        }
-        setIsLoading(false);
-      }, 400);
-    } catch (err) {
-      console.error(err);
-      setErrorMsg('Ошибка системы');
-      setIsLoading(false);
-    }
-  };
-
-  // --- Авто-логин из localStorage ---
-  useEffect(() => {
-    try {
-      const saved = localStorage.getItem('ysmu_student');
-      if (!saved) return;
-      const user = JSON.parse(saved);
-      if (user && user.group && user.email) {
-        setStudentData(user);
-        setIsAuth(true);
-        loadSchedule(user.group);
+      if (entered === e0 || entered === e1) {
+        // сохраняем тот email, который пользователь ввёл
+        foundUser = { name, group, email: entered, chat };
       }
-    } catch (e) {
-      console.warn('Не удалось прочитать профиль из localStorage', e);
-    }
-  }, []);
+    });
 
-  // --- Выход ---
-  const handleLogout = () => {
-    setIsAuth(false);
-    setStudentData(null);
-    setSchedule({ current: [], next: [] });
-    setLoginForm({ email: '' });
-    try {
-      localStorage.removeItem('ysmu_student');
-    } catch (e) {
-      console.warn('Не удалось очистить localStorage', e);
+    setTimeout(() => {
+      if (foundUser) {
+        setStudentData(foundUser);
+        setIsAuth(true);
+        loadSchedule(foundUser.group);
+
+        try {
+          localStorage.setItem('ysmu_student', JSON.stringify(foundUser));
+        } catch (e) {
+          console.warn('Не удалось сохранить профиль в localStorage', e);
+        }
+      } else {
+        setErrorMsg('Пользователь с таким email не найден');
+      }
+      setIsLoading(false);
+    }, 400);
+  } catch (err) {
+    console.error(err);
+    setErrorMsg('Ошибка системы');
+    setIsLoading(false);
+  }
+};
+
+// --- Авто-логин из localStorage ---
+useEffect(() => {
+  try {
+    const saved = localStorage.getItem('ysmu_student');
+    if (!saved) return;
+    const user = JSON.parse(saved);
+    if (user && user.group && user.email) {
+      setStudentData(user);
+      setIsAuth(true);
+      loadSchedule(user.group);
     }
-  };
+  } catch (e) {
+    console.warn('Не удалось прочитать профиль из localStorage', e);
+  }
+}, []);
+
+// --- Выход ---
+const handleLogout = () => {
+  setIsAuth(false);
+  setStudentData(null);
+  setSchedule({ current: [], next: [] });
+  setLoginForm({ email: '' });
+  try {
+    localStorage.removeItem('ysmu_student');
+  } catch (e) {
+    console.warn('Не удалось очистить localStorage', e);
+  }
+};
+
 
   const getEventColor = (type) => {
     const t = type.toLowerCase();
@@ -486,7 +503,7 @@ const loadSchedule = async (userGroup) => {
           <div className="flex flex-col items-center justify-center pt-10 gap-6 animate-fade-in">
             <div className="text-center space-y-2 mb-4">
               <h1 className="text-2xl font-bold text-slate-900">Авторизация</h1>
-              <p className="text-slate-500 text-sm">Введите логин ЭИОС ЯГМУ</p>
+              <p className="text-slate-500 text-sm">Введите адрес электронной почты или логин ЭИОС ЯГМУ</p>
             </div>
 
             <form
@@ -500,7 +517,7 @@ const loadSchedule = async (userGroup) => {
                 <input
                   type="email"
                   required
-                  placeholder="example@edu.ysmu.ru"
+                  placeholder="Логин или адрес электронной почты"
                   value={loginForm.email}
                   onChange={(e) => setLoginForm({ email: e.target.value })}
                   className="w-full px-4 py-3 rounded-xl bg-slate-50 border border-slate-200 focus:outline-none focus:ring-2 focus:ring-blue-500/20 focus:border-blue-500 transition-all text-slate-800"
