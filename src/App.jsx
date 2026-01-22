@@ -307,17 +307,31 @@ const loadSchedule = async (userGroup) => {
         return;
       }
 
-      // 3) еженедельное (1 и прочее) — как раньше
+      // 3) еженедельное (1 и прочее) — с проверкой даты окончания
       const dayOfWeek = startDate.getDay(); // 0–6
       const offset = (dayOfWeek + 6) % 7;
 
+      // Проверяем дату окончания
+      const endDate = recurrenceEnd || new Date('2099-12-31');
+      endDate.setHours(23, 59, 59, 999);
+
       const thisWeekDate = new Date(currentWeekStart);
       thisWeekDate.setDate(thisWeekDate.getDate() + offset);
-      placeIfInWeeks(baseUiEvent, thisWeekDate);
+      thisWeekDate.setHours(0, 0, 0, 0);
+
+      // Добавляем только если не истекло
+      if (thisWeekDate <= endDate) {
+        placeIfInWeeks(baseUiEvent, thisWeekDate);
+      }
 
       const nextWeekDate = new Date(nextWeekStart);
       nextWeekDate.setDate(nextWeekDate.getDate() + offset);
-      placeIfInWeeks(baseUiEvent, nextWeekDate);
+      nextWeekDate.setHours(0, 0, 0, 0);
+
+      // Добавляем только если не истекло
+      if (nextWeekDate <= endDate) {
+        placeIfInWeeks(baseUiEvent, nextWeekDate);
+      }
     });
 
     setSchedule({
@@ -328,6 +342,7 @@ const loadSchedule = async (userGroup) => {
     console.error('ОШИБКА:', err);
   }
 };
+
   // --- Авторизация по двум email + сохранение профиля ---
 const handleLogin = async (e) => {
   e.preventDefault();
@@ -388,20 +403,78 @@ const handleLogin = async (e) => {
   }
 };
 
-// --- Авто-логин из localStorage ---
+// --- Авто-логин из localStorage с проверкой актуальности данных ---
 useEffect(() => {
-  try {
-    const saved = localStorage.getItem('ysmu_student');
-    if (!saved) return;
-    const user = JSON.parse(saved);
-    if (user && user.group && user.email) {
-      setStudentData(user);
-      setIsAuth(true);
-      loadSchedule(user.group);
+  const checkAndUpdateUser = async () => {
+    try {
+      const saved = localStorage.getItem('ysmu_student');
+      if (!saved) return;
+      
+      const user = JSON.parse(saved);
+      if (!user || !user.group || !user.email) return;
+
+      // Проверяем, есть ли поле chat
+      if (!user.chat) {
+        console.log('Обнаружены устаревшие данные, обновляем из CSV...');
+        
+        try {
+          // Загружаем актуальные данные из CSV
+          const response = await fetch('/users.csv');
+          const text = await response.text();
+          const rows = text.split('\n').slice(1);
+          
+          let updatedUser = null;
+          rows.forEach((row) => {
+            if (!row.trim()) return;
+            const parts = row.split(';').map((s) => s.trim());
+            
+            const email = parts[0] || '';
+            const email1 = parts[1] || '';
+            const name = parts[2] || '';
+            const group = parts[3] || '';
+            const chat = parts[4] || '';
+            
+            const e0 = email.toLowerCase();
+            const e1 = email1.toLowerCase();
+            const savedEmail = user.email.toLowerCase();
+            
+            if (savedEmail === e0 || savedEmail === e1) {
+              updatedUser = { name, group, email: user.email, chat };
+            }
+          });
+          
+          if (updatedUser) {
+            // Обновляем данные в state и localStorage
+            setStudentData(updatedUser);
+            localStorage.setItem('ysmu_student', JSON.stringify(updatedUser));
+            setIsAuth(true);
+            loadSchedule(updatedUser.group);
+            console.log('Данные успешно обновлены!');
+          } else {
+            // Если пользователь не найден, используем старые данные
+            setStudentData(user);
+            setIsAuth(true);
+            loadSchedule(user.group);
+          }
+        } catch (err) {
+          console.warn('Не удалось обновить данные из CSV, используем сохраненные', err);
+          // В случае ошибки используем старые данные
+          setStudentData(user);
+          setIsAuth(true);
+          loadSchedule(user.group);
+        }
+      } else {
+        // Данные актуальные
+        setStudentData(user);
+        setIsAuth(true);
+        loadSchedule(user.group);
+      }
+    } catch (e) {
+      console.warn('Не удалось прочитать профиль из localStorage', e);
     }
-  } catch (e) {
-    console.warn('Не удалось прочитать профиль из localStorage', e);
-  }
+  };
+
+  checkAndUpdateUser();
 }, []);
 
 // --- Выход ---
@@ -416,6 +489,7 @@ const handleLogout = () => {
     console.warn('Не удалось очистить localStorage', e);
   }
 };
+
 
 
   const getEventColor = (type) => {
@@ -560,27 +634,43 @@ const handleLogout = () => {
                 </div>
               </div>
 
-              <a
-                href={studentData.chat}
-                target="_blank"
-                rel="noopener noreferrer"
-                className="bg-white p-4 rounded-2xl border border-slate-200 shadow-sm flex flex-col justify-between h-32 transition-all cursor-pointer relative overflow-hidden hover:shadow-md hover:border-emerald-300 group"
-              >
-                <div className="w-10 h-10 bg-emerald-50 text-emerald-600 rounded-full flex items-center justify-center mb-2 z-10 group-hover:scale-110 transition-transform duration-300">
-                  <IconMessage />
-                </div>
-                <div className="z-10">
-                  <p className="text-xs text-slate-400 font-medium uppercase tracking-wider">
-                    Чат группы
-                  </p>
-                  <div className="flex items-center gap-1 text-emerald-600 font-semibold mt-1">
-                    <span>Открыть</span>
-                    <span className="group-hover:translate-x-1 transition-transform">
-                      →
-                    </span>
-                  </div>
-                </div>
-              </a>
+              {studentData.chat ? (
+  <a
+    href={studentData.chat}
+    target="_blank"
+    rel="noopener noreferrer"
+    className="bg-white p-4 rounded-2xl border border-slate-200 shadow-sm flex flex-col justify-between h-32 transition-all relative overflow-hidden cursor-pointer hover:shadow-md hover:border-emerald-300 group"
+  >
+    <div className="w-10 h-10 bg-emerald-50 text-emerald-600 rounded-full flex items-center justify-center mb-2 z-10 group-hover:scale-110 transition-transform duration-300">
+      <IconMessage />
+    </div>
+    <div className="z-10">
+      <p className="text-xs text-slate-400 font-medium uppercase tracking-wider">
+        Чат группы
+      </p>
+      <div className="flex items-center gap-1 text-emerald-600 font-bold mt-1">
+        <span>Открыть</span>
+        <span className="group-hover:translate-x-1 transition-transform">
+          →
+        </span>
+      </div>
+    </div>
+  </a>
+) : (
+  <div className="bg-gradient-to-br from-gray-400 to-gray-500 p-4 rounded-2xl shadow-xl opacity-50 cursor-not-allowed h-32 flex flex-col justify-between">
+    <div className="w-10 h-10 bg-white/20 text-white rounded-full flex items-center justify-center mb-2 z-10">
+      <IconMessage />
+    </div>
+    <div className="z-10">
+      <p className="text-xs text-gray-100 font-medium uppercase tracking-wider">
+        Чат группы
+      </p>
+      <div className="flex items-center gap-1 text-white font-bold mt-1">
+        <span>Недоступно</span>
+      </div>
+    </div>
+  </div>
+)}
             </div>
 
             <div className="mt-6 animate-slide-up-delay">
