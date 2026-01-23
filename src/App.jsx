@@ -307,7 +307,7 @@ const loadSchedule = async (userGroup) => {
         return;
       }
 
-      // 3) еженедельное (1 и прочее) — с проверкой даты окончания
+      // 3) еженедельное (1 и прочее) — с проверкой даты начала и окончания
       const dayOfWeek = startDate.getDay(); // 0–6
       const offset = (dayOfWeek + 6) % 7;
 
@@ -319,8 +319,12 @@ const loadSchedule = async (userGroup) => {
       thisWeekDate.setDate(thisWeekDate.getDate() + offset);
       thisWeekDate.setHours(0, 0, 0, 0);
 
-      // Добавляем только если не истекло
-      if (thisWeekDate <= endDate) {
+      // Проверяем дату начала события
+      const eventStartDate = new Date(startDate);
+      eventStartDate.setHours(0, 0, 0, 0);
+
+      // Добавляем только если событие уже началось И не закончилось
+      if (thisWeekDate >= eventStartDate && thisWeekDate <= endDate) {
         placeIfInWeeks(baseUiEvent, thisWeekDate);
       }
 
@@ -328,10 +332,11 @@ const loadSchedule = async (userGroup) => {
       nextWeekDate.setDate(nextWeekDate.getDate() + offset);
       nextWeekDate.setHours(0, 0, 0, 0);
 
-      // Добавляем только если не истекло
-      if (nextWeekDate <= endDate) {
+      // Добавляем только если событие уже началось И не закончилось
+      if (nextWeekDate >= eventStartDate && nextWeekDate <= endDate) {
         placeIfInWeeks(baseUiEvent, nextWeekDate);
       }
+
     });
 
     setSchedule({
