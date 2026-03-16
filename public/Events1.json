@@ -26543,7 +26543,317 @@
   "recurrenceDateEndd": "05\/23\/2026",
   "group": "П20-01;П20-02;П20-03;П20-04;П20-05;П20-06;П20-07;П20-08;П20-09;П20-10",
   "Заметки": "пед6 - 1\/2\/3\/4\/5\/6\/7\/8\/9\/10"
+ },
+
+ {
+  "EventName": "Неврология, медицинская генетика, нейрохирургия",
+  "EventType": "Семинар",
+  "eventDateStartd": "16-Mar-26",
+  "eventDateStartTime": "08:00",
+  "eventDateEndTime": "15:00",
+  "weeklyRecurrence": 6,
+  "recurrenceDateEndd": "04\/11\/2026",
+  "group": "Л22-01;Л22-02;Л22-03;Л22-04",
+  "Заметки": "леч4 - 1\/2\/3\/4"
+ },
+ {
+  "EventName": "Факультетская терапия",
+  "EventType": "Семинар",
+  "eventDateStartd": "13-Apr-26",
+  "eventDateStartTime": "08:00",
+  "eventDateEndTime": "15:00",
+  "weeklyRecurrence": 6,
+  "recurrenceDateEndd": "05\/23\/2026",
+  "group": "Л22-01;Л22-02;Л22-03;Л22-04;Л22-05;Л22-06",
+  "Заметки": "леч4 - 1\/2\/3\/4\/5\/6"
+ },
+ {
+  "EventName": "Общественное здоровье и здравоохранение",
+  "EventType": "Семинар",
+  "eventDateStartd": "16-Mar-26",
+  "eventDateStartTime": "08:00",
+  "eventDateEndTime": "15:00",
+  "weeklyRecurrence": 6,
+  "recurrenceDateEndd": "03\/28\/2026",
+  "group": "Л22-05;Л22-06",
+  "Заметки": "леч4 - 5\/6"
+ },
+ {
+  "EventName": "Дерматовенерология",
+  "EventType": "Семинар",
+  "eventDateStartd": "30-Mar-26",
+  "eventDateStartTime": "08:00",
+  "eventDateEndTime": "15:00",
+  "weeklyRecurrence": 6,
+  "recurrenceDateEndd": "04\/11\/2026",
+  "group": "Л22-05;Л22-06;Л22-07;Л22-08",
+  "Заметки": "леч4 - 5\/6\/7\/8"
+ },
+ {
+  "EventName": "Факультетская терапия",
+  "EventType": "Семинар",
+  "eventDateStartd": "16-Mar-26",
+  "eventDateStartTime": "08:00",
+  "eventDateEndTime": "15:00",
+  "weeklyRecurrence": 6,
+  "recurrenceDateEndd": "03\/28\/2026",
+  "group": "Л22-07;Л22-08;Л22-09;Л22-10;Л22-11;Л22-12",
+  "Заметки": "леч4 - 7\/8\/9\/10\/11\/12"
+ },
+ {
+  "EventName": "Медицина катастроф",
+  "EventType": "Семинар",
+  "eventDateStartd": "30-Mar-26",
+  "eventDateStartTime": "08:00",
+  "eventDateEndTime": "15:00",
+  "weeklyRecurrence": 6,
+  "recurrenceDateEndd": "04\/11\/2026",
+  "group": "Л22-09;Л22-10;Л22-11;Л22-12",
+  "Заметки": "леч4 - 9\/10\/11\/12"
+ },
+ {
+  "EventName": "Неврология, медицинская генетика, нейрохирургия",
+  "EventType": "Семинар",
+  "eventDateStartd": "13-Apr-26",
+  "eventDateStartTime": "08:00",
+  "eventDateEndTime": "15:00",
+  "weeklyRecurrence": 6,
+  "recurrenceDateEndd": "05\/08\/2026",
+  "group": "Л22-07;Л22-08;Л22-09;Л22-10;Л22-11;Л22-12",
+  "Заметки": "леч4 - 7\/8\/9\/10\/11\/12"
+ },
+ {
+  "EventName": "Медицина катастроф",
+  "EventType": "Семинар",
+  "eventDateStartd": "11-May-26",
+  "eventDateStartTime": "08:00",
+  "eventDateEndTime": "15:00",
+  "weeklyRecurrence": 6,
+  "recurrenceDateEndd": "05\/23\/2026",
+  "group": "Л22-07;Л22-08",
+  "Заметки": "леч4 - 7\/8"
+ },
+ {
+  "EventName": "Общественное здоровье и здравоохранение",
+  "EventType": "Семинар",
+  "eventDateStartd": "11-May-26",
+  "eventDateStartTime": "08:00",
+  "eventDateEndTime": "15:00",
+  "weeklyRecurrence": 6,
+  "recurrenceDateEndd": "05\/23\/2026",
+  "group": "Л22-09;Л22-10;Л22-11;Л22-12",
+  "Заметки": "леч4 - 9\/10\/11\/12"
+ },
+ {
+  "EventName": "Оториноларингология",
+  "EventType": "Семинар",
+  "eventDateStartd": "23-Mar-26",
+  "eventDateStartTime": "08:00",
+  "eventDateEndTime": "15:00",
+  "weeklyRecurrence": 6,
+  "recurrenceDateEndd": "03\/28\/2026",
+  "group": "Л22-13;Л22-14;Л22-15;Л22-16",
+  "Заметки": "леч4 - 13\/14\/15\/16"
+ },
+ {
+  "EventName": "Факультетская хирургия",
+  "EventType": "Семинар",
+  "eventDateStartd": "30-Mar-26",
+  "eventDateStartTime": "08:00",
+  "eventDateEndTime": "15:00",
+  "weeklyRecurrence": 6,
+  "recurrenceDateEndd": "04\/18\/2026",
+  "group": "Л22-13;Л22-14;Л22-15;Л22-16",
+  "Заметки": "леч4 - 13\/14\/15\/16"
+ },
+ {
+  "EventName": "Медицина катастроф",
+  "EventType": "Семинар",
+  "eventDateStartd": "20-Apr-26",
+  "eventDateStartTime": "08:00",
+  "eventDateEndTime": "15:00",
+  "weeklyRecurrence": 6,
+  "recurrenceDateEndd": "05\/02\/2026",
+  "group": "Л22-13;Л22-14;Л22-15;Л22-16",
+  "Заметки": "леч4 - 13\/14\/15\/16"
+ },
+ {
+  "EventName": "Клиническая патанатомия",
+  "EventType": "Семинар",
+  "eventDateStartd": "04-May-26",
+  "eventDateStartTime": "08:00",
+  "eventDateEndTime": "15:00",
+  "weeklyRecurrence": 6,
+  "recurrenceDateEndd": "05\/13\/2026",
+  "group": "Л22-13;Л22-14",
+  "Заметки": "леч4 - 13\/14"
+ },
+ {
+  "EventName": "Клиническая патофизиология",
+  "EventType": "Семинар",
+  "eventDateStartd": "04-May-26",
+  "eventDateStartTime": "08:00",
+  "eventDateEndTime": "15:00",
+  "weeklyRecurrence": 6,
+  "recurrenceDateEndd": "05\/13\/2026",
+  "group": "Л22-15;Л22-16",
+  "Заметки": "леч4 - 15\/16"
+ },
+ {
+  "EventName": "Клиническая патофизиология",
+  "EventType": "Семинар",
+  "eventDateStartd": "14-May-26",
+  "eventDateStartTime": "08:00",
+  "eventDateEndTime": "15:00",
+  "weeklyRecurrence": 6,
+  "recurrenceDateEndd": "05\/23\/2026",
+  "group": "Л22-13;Л22-14",
+  "Заметки": "леч4 - 13\/14"
+ },
+ {
+  "EventName": "Клиническая патанатомия",
+  "EventType": "Семинар",
+  "eventDateStartd": "14-May-26",
+  "eventDateStartTime": "08:00",
+  "eventDateEndTime": "15:00",
+  "weeklyRecurrence": 6,
+  "recurrenceDateEndd": "05\/23\/2026",
+  "group": "Л22-15;Л22-16",
+  "Заметки": "леч4 - 15\/16"
+ },
+ {
+  "EventName": "Медицина катастроф",
+  "EventType": "Семинар",
+  "eventDateStartd": "16-Mar-26",
+  "eventDateStartTime": "08:00",
+  "eventDateEndTime": "15:00",
+  "weeklyRecurrence": 6,
+  "recurrenceDateEndd": "03\/28\/2026",
+  "group": "Л22-17;Л22-18;Л22-19;Л22-20",
+  "Заметки": "леч4 - 17\/18\/19\/20"
+ },
+ {
+  "EventName": "Оториноларингология",
+  "EventType": "Семинар",
+  "eventDateStartd": "30-Mar-26",
+  "eventDateStartTime": "08:00",
+  "eventDateEndTime": "15:00",
+  "weeklyRecurrence": 6,
+  "recurrenceDateEndd": "04\/11\/2026",
+  "group": "Л22-17;Л22-18;Л22-19;Л22-20",
+  "Заметки": "леч4 - 17\/18\/19\/20"
+ },
+ {
+  "EventName": "Клиническая патофизиология",
+  "EventType": "Семинар",
+  "eventDateStartd": "13-Apr-26",
+  "eventDateStartTime": "08:00",
+  "eventDateEndTime": "15:00",
+  "weeklyRecurrence": 6,
+  "recurrenceDateEndd": "04\/22\/2026",
+  "group": "Л22-17;Л22-18",
+  "Заметки": "леч4 - 17\/18"
+ },
+ {
+  "EventName": "Клиническая патанатомия",
+  "EventType": "Семинар",
+  "eventDateStartd": "25-Apr-26",
+  "eventDateStartTime": "08:00",
+  "eventDateEndTime": "15:00",
+  "weeklyRecurrence": 6,
+  "recurrenceDateEndd": "05\/02\/2026",
+  "group": "Л22-17;Л22-18",
+  "Заметки": "леч4 - 17\/18"
+ },
+ {
+  "EventName": "Факультетская хирургия",
+  "EventType": "Семинар",
+  "eventDateStartd": "04-May-26",
+  "eventDateStartTime": "08:00",
+  "eventDateEndTime": "15:00",
+  "weeklyRecurrence": 6,
+  "recurrenceDateEndd": "05\/23\/2026",
+  "group": "Л22-17;Л22-18",
+  "Заметки": "леч4 - 17\/18"
+ },
+ {
+  "EventName": "Факультетская хирургия",
+  "EventType": "Семинар",
+  "eventDateStartd": "16-Mar-26",
+  "eventDateStartTime": "08:00",
+  "eventDateEndTime": "15:00",
+  "weeklyRecurrence": 6,
+  "recurrenceDateEndd": "03\/21\/2026",
+  "group": "Л22-21;Л22-22;Л22-23;Л22-24",
+  "Заметки": "леч4 - 21\/22\/23\/24"
+ },
+ {
+  "EventName": "Клиническая патанатомия",
+  "EventType": "Семинар",
+  "eventDateStartd": "23-Mar-26",
+  "eventDateStartTime": "08:00",
+  "eventDateEndTime": "15:00",
+  "weeklyRecurrence": 6,
+  "recurrenceDateEndd": "04\/01\/2026",
+  "group": "Л22-21;Л22-22",
+  "Заметки": "леч4 - 21\/22"
+ },
+ {
+  "EventName": "Клиническая патофизиология",
+  "EventType": "Семинар",
+  "eventDateStartd": "23-Mar-26",
+  "eventDateStartTime": "08:00",
+  "eventDateEndTime": "15:00",
+  "weeklyRecurrence": 6,
+  "recurrenceDateEndd": "04\/01\/2026",
+  "group": "Л22-23;Л22-24",
+  "Заметки": "леч4 - 23\/24"
+ },
+ {
+  "EventName": "Клиническая патофизиология",
+  "EventType": "Семинар",
+  "eventDateStartd": "02-Apr-26",
+  "eventDateStartTime": "08:00",
+  "eventDateEndTime": "15:00",
+  "weeklyRecurrence": 6,
+  "recurrenceDateEndd": "04\/11\/2026",
+  "group": "Л22-21;Л22-22",
+  "Заметки": "леч4 - 21\/22"
+ },
+ {
+  "EventName": "Клиническая патанатомия",
+  "EventType": "Семинар",
+  "eventDateStartd": "02-Apr-26",
+  "eventDateStartTime": "08:00",
+  "eventDateEndTime": "15:00",
+  "weeklyRecurrence": 6,
+  "recurrenceDateEndd": "04\/11\/2026",
+  "group": "Л22-23;Л22-24",
+  "Заметки": "леч4 - 23\/24"
+ },
+ {
+  "EventName": "Введение в акушерство",
+  "EventType": "Семинар",
+  "eventDateStartd": "13-Apr-26",
+  "eventDateStartTime": "08:00",
+  "eventDateEndTime": "15:00",
+  "weeklyRecurrence": 6,
+  "recurrenceDateEndd": "05\/23\/2026",
+  "group": "Л22-19;Л22-20;Л22-21;Л22-22;Л22-23;Л22-24",
+  "Заметки": "леч4 - 19\/20\/21\/22\/23\/24"
+ },
+ {
+  "EventName": "Элективная дисциплина 3",
+  "EventType": "Семинар",
+  "eventDateStartd": "25-May-26",
+  "eventDateStartTime": "08:00",
+  "eventDateEndTime": "15:00",
+  "weeklyRecurrence": 6,
+  "recurrenceDateEndd": "06\/03\/2026",
+  "group": "Л22-01;Л22-02;Л22-03;Л22-04;Л22-05;Л22-06;Л22-07;Л22-08;Л22-09;Л22-10;Л22-11;Л22-12;Л22-13;Л22-14;Л22-15;Л22-16;Л22-17;Л22-18;Л22-19;Л22-20;Л22-21;Л22-22;Л22-23;Л22-24",
+  "Заметки": "леч4 - все"
  }
+
 
 
 
