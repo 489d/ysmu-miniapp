@@ -125,6 +125,12 @@ const IconClock = () => (
   </svg>
 );
 
+// --- Нормализация времени: "8:30" -> "08:30" ---
+// Часы двумя знаками, чтобы строковая сортировка внутри дня (localeCompare
+// по "start - end") была хронологической. Всё, что не "Ч:ММ", проходит как есть.
+const padTime = (t) =>
+  typeof t === 'string' && /^\d:\d{2}$/.test(t) ? `0${t}` : t;
+
 export default function StudentMiniApp() {
   const [isAuth, setIsAuth] = useState(false);
   const [isLoading, setIsLoading] = useState(false);
@@ -288,7 +294,12 @@ export default function StudentMiniApp() {
     try {
       const response = await fetch('/Events1.json');
       if (!response.ok) throw new Error('Файл не найден');
-      const data = await response.json();
+      // нормализуем время сразу на входе: "8:30" -> "08:30" (оба поля)
+      const data = (await response.json()).map((event) => ({
+        ...event,
+        eventDateStartTime: padTime(event.eventDateStartTime),
+        eventDateEndTime: padTime(event.eventDateEndTime),
+      }));
 
       const now = new Date();
       now.setHours(0, 0, 0, 0);
